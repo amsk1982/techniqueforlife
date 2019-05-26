@@ -4,7 +4,7 @@ draft = true
 summary = "Taster workshops at festivals"
 title = "Festivals"
 [[event]]
-date = "2019-07-16T23:00:00+00:00"
+date = "2019-07-17T11:00:00+00:00"
 link = "https://www.buddhafield.com/buddhafield-festival-2019"
 linkName = "Buddhafield Festival 2019"
 location = "Buddhafield Festival"
