@@ -1,0 +1,44 @@
+
+{{ define "main" }}
+<div class="container">
+    <div class="columns is-centered">
+        <div class="column is-narrow">
+            <h2 id="workshop-dates-list" class="title is-5">Dates</h2>
+            {{range $evt := (sort .Params.Event "date") }}
+                {{if $evt.link}}
+                    <a href="{{- .link -}}" style="display:  block;">
+                        {{ if $evt.dateOverride }}
+                            {{- $evt.dateOverride -}}
+                        {{ end }}
+                        {{ if not $evt.dateOverride }}
+                            {{- dateFormat "Monday 2 January 2006" $evt.date -}}
+                        {{ end }}
+                        {{- ", " -}}
+                        {{- $evt.location -}}
+                    </a>
+                {{end}}
+                {{if not $evt.link}}
+                <div>
+                    {{ if $evt.dateOverride }}
+                        {{- $evt.dateOverride -}}
+                    {{ end }}
+                    {{ if not $evt.dateOverride }}
+                        {{- dateFormat "Monday 2 January 2006" $evt.date -}}
+                    {{ end }}
+                    {{- ", " -}}
+                    {{- $evt.location -}}
+                </div>
+                {{end}}
+            {{end}}
+        </div>
+        <div class="column is-three-fifths">
+            <h2 class="title is-2">{{- .Title -}}</h2>
+
+            <div class="content">
+                {{- .Content -}}
+            </div>
+        </div>
+        
+    </div>
+</div>
+{{ end }}

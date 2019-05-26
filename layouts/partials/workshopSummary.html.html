@@ -1,0 +1,9 @@
+
+<a class="box tile is-child" href="{{ .RelPermalink  }}" >
+<h4 class="title is-4" style="margin-bottom: 0;">{{- .Title -}}</h4>
+{{ range .Params.Event }}
+    <p style="font-size: 15px;"><span>{{- .location }}</span>  
+        {{- dateFormat ", Monday 2 January 2006" .date -}}</p>
+{{ end }}
+<p style="margin-top: 10px;">{{- .Summary -}}</p>
+</a>

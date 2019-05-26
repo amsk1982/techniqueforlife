@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+  {{ range  $p := .Pages }}
+    {{ $evt := index (sort $p.Params.event "date") 0  }}
+    {{ $.Scratch.Add "workshops" (slice (dict "date" $evt.date "page" $p))}}
+  {{ end }}
+
+  <div class="container">
+    <article>
+      <h2 class="title is-h2">Workshops</h2>
+      <main>
+        {{- .Content -}}
+      </main>
+
+      <section class="tile is-ancestor">
+        {{range (sort ($.Scratch.Get "workshops") "date") }}
+          <div class="tile is-parent">
+            {{ partial "workshopSummary.html" .page }}
+        </div>
+        {{ end }}
+
+        {{ partial "pagination.html" . }}
+      </section>
+    </article>
+  </div>
+
+{{ end }}
