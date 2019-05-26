@@ -5,8 +5,14 @@ fields:
 - type: text
   name: title
   label: title
-- type: text
-  name: summary
+- name: summary
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
   label: summary
 - type: datetime
   name: date
