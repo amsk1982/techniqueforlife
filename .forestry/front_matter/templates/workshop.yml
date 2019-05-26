@@ -33,3 +33,5 @@ fields:
   - type: text
     name: linkName
     label: linkName
+pages:
+- content/workshops/festivals.md
