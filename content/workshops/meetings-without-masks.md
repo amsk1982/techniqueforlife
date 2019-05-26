@@ -1,23 +1,19 @@
 +++
-title = "Meetings Without Masks"
+date = "2019-05-05T10:58:10.000+01:00"
 summary = "A gender balanced workshop for men and women who are single"
-date = 2019-05-05T10:58:10+01:00
-draft = false
-
+title = "Meetings Without Masks"
 [[event]]
-date = 2019-05-19
-location = "Bristol"
+date = "2019-11-24T01:00:00+00:00"
 link = "https://www.eventbrite.com/e/meetings-without-masks-tickets-57513692001"
 linkName = "Tickets"
-
+location = "Bristol"
 [[event]]
-date = 2019-07-07
-location = "London"
+date = "2019-07-07T00:00:00.000+00:00"
 link = "https://www.eventbrite.com/e/meetings-without-masks-tickets-56295531450"
 linkName = "Tickets"
+location = "London"
 
 +++
-
 * Are you looking for love, connection, intimacy and relationship?
 * Are you finding it hard to meet the right person?
 * Have you tried the Internet, speed dating or the singles scene and felt it ring a bit hollow? Are you looking for more but not quite sure how to find it?
@@ -52,6 +48,3 @@ We invite you to participate in a wonderful day. In a gender-balanced group, we 
 It is a singles event that includes mind, body, heart and soul, alongside humor and tenderness, dancing, laughter and play.
 
 Whether you meet your soul mate or not, it is a great opportunity to enjoy, and maybe risk, being a little (or a lot!) more intimate and human and alive.
-
- 
-
