@@ -1,0 +1,29 @@
+---
+label: Workshop
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: summary
+  label: summary
+- type: datetime
+  name: date
+  label: date
+- type: field_group_list
+  name: event
+  label: event
+  fields:
+  - type: datetime
+    name: date
+    label: date
+  - type: text
+    name: location
+    label: location
+  - type: text
+    name: link
+    label: link
+  - type: text
+    name: linkName
+    label: linkName
