@@ -16,7 +16,7 @@ fields:
   label: summary
 - type: datetime
   name: date
-  label: date
+  label: date created/updated
 - type: field_group_list
   name: event
   label: event
