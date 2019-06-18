@@ -1,16 +1,13 @@
 +++
-title = "Introduction to Living Tantra"
+date = "2019-05-05T09:17:15+00:00"
 summary = "An opportunity to explore more deeply into the realms of ecstatic loving, sexual intimacy and sacred union so that you can learn to have healthy, satisfying relationships."
-date = 2019-05-05T10:17:15+01:00
-draft = false
-
+title = "Introduction to Living Tantra"
 [[event]]
-date = 2019-06-09
-location = "London"
-link = "https://www.brownpapertickets.com/event/4194553"
+date = "2019-09-22T00:00:00+00:00"
+link = ""
+location = "Bristol"
 
 +++
-
 Living Tantra is a series of sexuality and intimacy workshops that begins with Living Tantra 1. It offers an opportunity to explore more deeply into the realms of ecstatic loving, sexual intimacy and sacred union so that you can learn to have healthy, satisfying relationships.
 
 Because of the nature of this work, a pre-requisite for the Living Tantra course is the foundational workshop, Living Tantra 1. When you have completed the full 7 days of Living Tantra 1, you can participate in any of the other Living Tantra workshops and you can also join the 18 month Living Tantra Training group if you wish.
@@ -39,4 +36,4 @@ Living Tantra gives your permission to enjoy pleasure. It also gives you the per
 
 Thre is no pre-requisite for Living Tantra 1. However if you want to do a weekend Introduction to Living Tantra, there are opportunities throughout the year to attend these. They are currently led by Jan Day or her senior students who are part of the School of Being teaching team: Louise de Caux, Natasha Hood, Charlotte McLaughlin, Ed Rooke, Julie Clarke, Nicola Foster, Christine Lilamayi O'Leary or Seth Newman. If you have any questions or would like to book now, or just like to chat about the workshop before you book, you can call me on 020-8123 9831.
 
-You can boook the workshop by sending a deposit of £ 250 to Jan Day Workshops Limited (call or email to ask for bank transfer details) 
+You can boook the workshop by sending a deposit of £ 250 to Jan Day Workshops Limited (call or email to ask for bank transfer details)
