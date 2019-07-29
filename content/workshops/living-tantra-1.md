@@ -13,6 +13,6 @@ This introductory day invites you to say hello to and welcome all that you feel 
 
 During the day you will meet and connect with others in a safe and nourishing space where you can relax into discovering yourself and your way of connecting with man or woman.
 
-Book tickets  [https://www.brownpapertickets.com/event/4265265](https://www.brownpapertickets.com/event/4265265 "here")
-
 ##### Subud Hall, Clifton, Bristol  10.30am - 5.30pm
+
+Book tickets  [https://www.brownpapertickets.com/event/4265265](https://www.brownpapertickets.com/event/4265265 "here")
