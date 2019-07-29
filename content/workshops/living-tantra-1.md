@@ -15,4 +15,4 @@ During the day you will meet and connect with others in a safe and nourishing sp
 
 ##### Subud Hall, Clifton, Bristol  10.30am - 5.30pm
 
-Book tickets  [https://www.brownpapertickets.com/event/4265265](https://www.brownpapertickets.com/event/4265265 "here")
+[Book tickets here](https://www.brownpapertickets.com/event/4265265)
