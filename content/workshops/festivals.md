@@ -14,3 +14,4 @@ linkName = ""
 location = "Desire & Intimacy"
 
 +++
+Taster workshops and meditations at summer festivals
