@@ -5,7 +5,7 @@ title = "Homepage"
 +++
 # <a href="/workshops">See upcoming workshops here</a>.
 
-Bethan offers relating and intimacy workshops. 
+Bethan offers relating & intimacy workshops and one-to-one coaching based on Shadow Work.
 
 She has been working with groups since 2008 bringing compassion, empathy and the invitation to welcome yourself exactly as you are in each moment.
 

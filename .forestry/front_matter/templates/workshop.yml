@@ -34,6 +34,6 @@ fields:
     name: linkName
     label: linkName
 pages:
+- content/workshops/festivals.md
 - content/workshops/inviting-intimacy.md
 - content/workshops/living-tantra-1-1.md
-- content/workshops/festivals.md
