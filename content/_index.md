@@ -3,7 +3,7 @@ date = "2019-05-04T22:04:03.000+01:00"
 title = "Homepage"
 
 +++
-## <a href="/workshops">See upcoming workshops here</a>.
+## <a href="/workshops">See upcoming workshops here.</a>
 
 ##### Contact Bethan: 07515 482 426 Bethan@TechniqueForLife.com
 
