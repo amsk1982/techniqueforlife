@@ -1,5 +1,6 @@
 +++
 date = ""
+draft = true
 summary = ""
 title = "Festivals"
 [[event]]
