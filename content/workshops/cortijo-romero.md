@@ -12,4 +12,4 @@ We will focus on creating deeper connections to ourselves and each other, explor
 
 Experience and appreciate the gift of your unique being as man or woman and bring more joy and ease into your connections with others!
 
-_"...for me \[Bethan\] really role models authentic relating and I have huge respect and trust in her abilities. She is empathetic and kind enabling me to feel safe...  I would really recommend working with Bethan if you have the opportunity."_ (GR- female)
+_"...for me she really role models authentic relating and I have huge respect and trust in her abilities. She is empathetic and kind enabling me to feel safe...  I would really recommend working with Bethan if you have the opportunity."_ (GR- female)
