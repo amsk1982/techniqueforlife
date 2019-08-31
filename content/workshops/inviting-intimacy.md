@@ -24,3 +24,5 @@ Friday 6th March 7.00 - 10.00pm
 Saturday 7th March  10.30am - 7.00pm
 
 Sunday 8th March 10.30am - 4.00pm
+
+_"Fantastic leaders Ed & Bethan making it a safe, calm environment for 'Personal Development'. I came away feeling relaxed & refreshed and my perspective of relationships changed."_
