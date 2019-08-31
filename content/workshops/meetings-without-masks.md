@@ -26,19 +26,16 @@ MEETINGS WITHOUT MASKS is the answer.
 
 {{% youtube id="1nJWNjniPT8" %}}
 
-Here is what Rob said about his "Meetings without Masks"
+Here's what people have said about their "Meetings without Masks"
 
-<div class="message">
-<div class="message-body">
-    "I would like to thank you, and your team, for creating such a remarkable workshop on Sunday.
-    During the day it was a pleasure to be present and on reflection I am mightily impressed by the workshop structure.
-    I recall at the end of the day saying to you that the workshop had been everything I expected.  
-    Tonight I hope to get some sleep!
-    The follow through, for want of a better word, has been stunning. It has been a long time since I have generated such beautiful tears of joy and self love. 
-    My heartfelt thanks for the power you and the group brought into the room on Sunday. A friend recently described me as spiralling upwards. This has been a super charge experience." 
+_"I really enjoyed the day on Sunday and got a lot from the work. I felt it was well led, safe and rewarding. I will definitely recommend to friends_..."   Owen
 
-    <p><i>-Rob</i></p>
-</div>
+_“I really enjoyed the whole day, discovering what is true for me in relationship to myself and others. Thank you.”_ Elizabeth
+
+_“For me, this is an interactive, skilfully held event for single people rather than a dating event so there is no pressure and, probably, because of this I was relaxed and made some good connections.”_ Adrian
+
+_“A beautifully held space for connections to emerge. Simple exercises which bring awareness to what’s important to me when connecting with others.”_ Anon.
+
 </div>
 
 This exciting new event has been specifically designed and developed to provide a very different kind of experience for people who are looking for love and partnership.
