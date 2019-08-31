@@ -16,3 +16,11 @@ During the day you will meet and connect with others in a safe and nourishing sp
 ##### Subud Hall, Clifton, Bristol  10.30am - 5.30pm
 
 [Book tickets here](https://www.brownpapertickets.com/event/4265265)
+
+Here's what some people said about previous days:-
+
+_"I thought the structure of the day worked really well to build trust and a sense of safety"_
+
+"Lovely facilitation, really clear guidelines & instructions. Thank you!"
+
+_"I thought you and Ed did an amazing job holding the space in such a safe and nourishing way..."_ 
