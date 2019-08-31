@@ -17,10 +17,10 @@ During the day you will meet and connect with others in a safe and nourishing sp
 
 [Book tickets here](https://www.brownpapertickets.com/event/4265265)
 
-Here's what some people said about previous days:-
+Here's some feedback we've had:-
 
 _"I thought the structure of the day worked really well to build trust and a sense of safety"_
 
-"Lovely facilitation, really clear guidelines & instructions. Thank you!"
+_"Lovely facilitation, really clear guidelines & instructions. Thank you!"_
 
 _"I thought you and Ed did an amazing job holding the space in such a safe and nourishing way..."_ 
