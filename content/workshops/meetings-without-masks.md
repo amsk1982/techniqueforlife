@@ -18,13 +18,11 @@ location = "London"
 * Are you finding it hard to meet the right person?
 * Have you tried the Internet, speed dating or the singles scene and felt it ring a bit hollow? Are you looking for more but not quite sure how to find it?
 
-It can be tough to make real connections in our busy lives. Work, pubs, clubs and the dating industry can feel like a market place.
+It can be tough to make real connections in our busy lives. Pubs, clubs and the dating industry can feel like a market place.
 
 So where and how do we find and meet each other in a different way?
 
 MEETINGS WITHOUT MASKS is the answer.
-
-{{% youtube id="1nJWNjniPT8" %}}
 
 Here's what people have said about their "Meetings without Masks"
 
@@ -36,12 +34,12 @@ _“For me, this is an interactive, skilfully held event for single people rathe
 
 _“A beautifully held space for connections to emerge. Simple exercises which bring awareness to what’s important to me when connecting with others.”_ Anon.
 
-</div>
+{{% youtube id="1nJWNjniPT8" %}}
 
-This exciting new event has been specifically designed and developed to provide a very different kind of experience for people who are looking for love and partnership.
+<div>This wonderful event has been specifically designed and developed to provide a very different kind of experience for people who are looking for love and partnership.</div>
 
-We invite you to participate in a wonderful day. In a gender-balanced group, we will explore how to meet each other more authentically as men and women. The day has been carefully structured to help this happen with fun and creative exercises to open and relax you. Run by coach and relationship expert, Jan Day, it is safe, supportive and both professionally and compassionately delivered.
+<div>In a gender-balanced group, we will explore how to meet each other more authentically. The day has been carefully structured to help this happen, with fun and creative exercises to open and relax you. Devised by coach and relationship expert, Jan Day, it is safe, supportive and both professionally and compassionately delivered: </div>
 
-It is a singles event that includes mind, body, heart and soul, alongside humor and tenderness, dancing, laughter and play.
+<div>A singles event that includes mind, body, heart and soul, alongside humor and tenderness, dancing and laughter.</div>
 
-Whether you meet your soul mate or not, it is a great opportunity to enjoy, and maybe risk, being a little (or a lot!) more intimate and human and alive.
+<div>Whether you meet your soul mate or not, it is a great opportunity to enjoy, and maybe risk, being a little (or a lot!) more intimate and human and alive.</div>
