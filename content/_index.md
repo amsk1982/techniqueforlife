@@ -7,7 +7,7 @@ title = "Homepage"
 
 ##### Contact Bethan: 07515 482 426 Bethan@TechniqueForLife.com
 
-Bethan offers relating & intimacy workshops and one-to-one coaching based on _ShadowWork_.  
+Bethan offers relating & intimacy workshops, one-to-one coaching based on _ShadowWork,_ and Alexander Technique sessions.
 
 She has been working with groups since 2008 bringing compassion, empathy and the invitation to welcome yourself exactly as you are in each moment.
 
