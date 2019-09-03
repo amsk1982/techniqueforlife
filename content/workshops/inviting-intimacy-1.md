@@ -1,6 +1,6 @@
 +++
 date = ""
-summary = "A weekend to explore and deepen your relationship with yourself and others.  Non-residential."
+summary = "A weekend to explore and deepen your relationship with yourself and others - all welcome"
 title = "Inviting Intimacy"
 [[event]]
 date = "2020-03-06T12:00:00+00:00"
