@@ -9,7 +9,7 @@ linkName = "Tickets"
 location = "Bristol"
 [[event]]
 date = "2020-02-16T01:00:00+00:00"
-link = "https://www.eventbrite.com/e/meetings-without-masks-tickets-56295531450"
+link = ""
 linkName = "Tickets"
 location = "London"
 
