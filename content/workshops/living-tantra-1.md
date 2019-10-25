@@ -4,7 +4,7 @@ summary = "Living Tantra is for people who want to experience richer relationshi
 title = "Introduction to Living Tantra"
 [[event]]
 date = "2020-09-06T00:00:00+00:00"
-link = "https://www.brownpapertickets.com/event/4265265"
+link = ""
 linkName = "Introduction to Living Tantra"
 location = "Bristol"
 
