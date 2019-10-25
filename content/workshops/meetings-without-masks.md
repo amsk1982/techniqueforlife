@@ -12,6 +12,8 @@ date = "2020-02-16T01:00:00+00:00"
 link = ""
 linkName = "Tickets"
 location = "London"
+[[event]]
+date = "2020-04-25T11:00:00+00:00"
 
 +++
 * Are you looking for love, connection, intimacy and relationship?
