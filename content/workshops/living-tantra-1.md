@@ -3,6 +3,9 @@ date = "2019-05-05T09:17:15+00:00"
 summary = "Living Tantra is for people who want to experience richer relationships, deeper intimacy and more authentic connection with others."
 title = "Introduction to Living Tantra"
 [[event]]
+date = "2020-06-14T00:00:00+00:00"
+location = "London"
+[[event]]
 date = "2020-09-06T00:00:00+00:00"
 link = ""
 linkName = "Introduction to Living Tantra"
@@ -13,9 +16,7 @@ This introductory day invites you to say hello to and welcome all that you feel 
 
 During the day you will meet and connect with others in a safe and nourishing space where you can relax into discovering yourself and your way of connecting with man or woman.
 
-##### Subud Hall, Clifton, Bristol  10.30am - 5.30pm
-
-[Book tickets here](https://www.brownpapertickets.com/event/4265265)
+##### 10.30am - 5.30pm
 
 Here's some feedback we've had:-
 
@@ -23,4 +24,4 @@ _"I thought the structure of the day worked really well to build trust and a sen
 
 _"Lovely facilitation, really clear guidelines & instructions. Thank you!"_
 
-_"I thought you and Ed did an amazing job holding the space in such a safe and nourishing way..."_ 
+_"I thought you and Ed did an amazing job holding the space in such a safe and nourishing way..."_
