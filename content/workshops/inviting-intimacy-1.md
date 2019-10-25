@@ -6,7 +6,7 @@ title = "Inviting Intimacy"
 date = "2020-03-06T12:00:00+00:00"
 link = "https://www.brownpapertickets.com/event/4265265"
 linkName = "Link to ticket site"
-location = "Clifton, Bristol"
+location = "Bristol"
 
 +++
 **Friday 6th March (evening) to Sunday 8th March 2020**
