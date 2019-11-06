@@ -1,5 +1,5 @@
 +++
-date = "2019-05-05T10:58:10.000+01:00"
+date = 2019-05-05T09:58:10Z
 summary = "A gender balanced workshop for men and women who are single"
 title = "Meetings Without Masks"
 [[event]]
@@ -9,7 +9,7 @@ linkName = "Tickets"
 location = "Bristol"
 [[event]]
 date = "2020-02-16T01:00:00+00:00"
-link = ""
+link = "https://www.eventbrite.com/e/meetings-without-masks-tickets-62348125923"
 linkName = "Tickets"
 location = "London"
 [[event]]
