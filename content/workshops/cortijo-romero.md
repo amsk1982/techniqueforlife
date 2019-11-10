@@ -1,5 +1,6 @@
 +++
-date = "2019-05-05T10:17:15.000+01:00"
+date = 2019-05-05T09:17:15Z
+draft = true
 summary = "A holiday and a workshop all in one"
 title = "Enriching Relationships"
 [[event]]
