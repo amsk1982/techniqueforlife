@@ -1,12 +1,12 @@
 +++
-date = "2019-05-05T09:17:15+00:00"
+date = 2019-05-05T09:17:15Z
 summary = "Living Tantra is for people who want to experience richer relationships, deeper intimacy and more authentic connection with others."
 title = "Introduction to Living Tantra"
 [[event]]
 date = "2020-06-14T00:00:00+00:00"
 location = "London"
 [[event]]
-date = "2020-09-06T00:00:00+00:00"
+date = "2020-09-05T00:00:00+00:00"
 link = ""
 linkName = "Introduction to Living Tantra"
 location = "Bristol"
