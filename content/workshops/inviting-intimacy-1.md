@@ -3,7 +3,7 @@ date = ""
 summary = "A weekend to explore and deepen your relationship with yourself and others - all welcome"
 title = "Inviting Intimacy"
 [[event]]
-date = "2020-03-06T12:00:00+00:00"
+date = "2020-03-07T12:00:00+00:00"
 link = "https://www.brownpapertickets.com/event/4330059"
 linkName = "Link to ticket site"
 location = "Bristol"
