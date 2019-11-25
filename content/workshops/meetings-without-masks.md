@@ -3,11 +3,6 @@ date = 2019-05-05T09:58:10Z
 summary = "A gender balanced workshop for single men and women "
 title = "Meetings Without Masks"
 [[event]]
-date = "2019-11-23T01:00:00+00:00"
-link = "https://www.eventbrite.com/e/meetings-without-masks-tickets-68736507745"
-linkName = "Tickets"
-location = "Bristol"
-[[event]]
 date = "2020-02-16T01:00:00+00:00"
 link = "https://www.eventbrite.com/e/meetings-without-masks-tickets-62348125923"
 linkName = "Tickets"
