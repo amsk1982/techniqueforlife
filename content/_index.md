@@ -1,6 +1,5 @@
 +++
 date = 2019-05-04T21:04:03Z
-draft = true
 title = "Homepage"
 
 +++
@@ -10,12 +9,12 @@ title = "Homepage"
 
 Bethan offers School of Being workshops looking at relating & intimacy, 
 
-one-to-one coaching based on _ShadowWork,_                                   and Alexander Technique sessions since 2008.
+one-to-one coaching based on _ShadowWork,_
+
+and Alexander Technique sessions since 2008.
 
 She invites you to welcome yourself exactly as you are in each moment as a starting point for opening to your fullest self.  Her aim is to create an accepting, non-judgmental space for whatever arises.
 
-During a first career in the helping professions Bethan was drawn to Alexander Technique and gained so much benefit from it, and from Shadow Work to deal with personal challenges 
+During a first career in the helping professions Bethan was drawn to Alexander Technique and gained so much benefit from it, and from Shadow Work, to deal with personal challenges that she wanted to learn more which led to training
 
-depression, finding own self, believing not loved & not fitting in
-
- facilitation and with renowned relationship expert Jan Day's School of Being. She continues to study with Jan Day and with Joanna Watters ("Supporting a radical acceptance of present moment reality")
+Relationship expert Jan Day's School of Being. She continues to study with Jan Day and with Joanna Watters ("Supporting a radical acceptance of present moment reality")
