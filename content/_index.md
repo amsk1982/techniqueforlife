@@ -7,11 +7,9 @@ title = "Homepage"
 
 ##### Contact Bethan: 07515 482 426 Bethan@TechniqueForLife.com
 
-Bethan offers School of Being workshops looking at relating & intimacy, 
-
-one-to-one coaching based on _ShadowWork,_
-
-and Alexander Technique sessions since 2008.
+Bethan offers School of Being workshops on themes of relating & intimacy,  
+one-to-one coaching based on _ShadowWork,  
+_and Alexander Technique sessions (since 2008).
 
 She invites you to welcome yourself exactly as you are in each moment as a starting point for opening to your fullest self.  Her aim is to create an accepting, non-judgmental space for whatever arises.
 
