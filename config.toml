@@ -17,6 +17,11 @@ url = "/workshops"
 name = "Workshops"
 weight = 2
 
+[[menus.main]]
+url = "/shadow-work"
+name = "One-to-one"
+weight = 3
+
 #[[menus.main]]
 #url = "/calendar"
 #name = "Calendar"
