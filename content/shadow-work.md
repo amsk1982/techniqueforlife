@@ -1,5 +1,5 @@
 +++
-date = 2019-12-31T00:00:00Z
+date = 2020-01-09T00:00:00Z
 event = []
 summary = "ShadowWork coaching"
 title = "Individual attention"
