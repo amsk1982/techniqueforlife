@@ -25,12 +25,14 @@ Saturday 7th March  10.30am - 7.00pm
 
 Sunday 8th March 10.30am - 4.00pm
 
-Full weekend ticket £150  
+Full weekend ticket £150
 
 _Book together and share a £50 discount - buy two standard price full weekend tickets at the same time to pay only £250 for two people_
 
 Early bird ticket £120
 
-Two-together ticket 
+Two-together ticket
 
 > _"Fantastic leaders Ed & Bethan making it a safe, calm environment for 'Personal Development'. I came away feeling relaxed & refreshed and my perspective of relationships changed."_
+
+[https://www.youtube.com/watch?v=6p7SY6AZtW4](https://www.youtube.com/watch?v=6p7SY6AZtW4 "https://www.youtube.com/watch?v=6p7SY6AZtW4")
