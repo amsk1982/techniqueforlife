@@ -36,3 +36,5 @@ Two-together ticket
 > _"Fantastic leaders Ed & Bethan making it a safe, calm environment for 'Personal Development'. I came away feeling relaxed & refreshed and my perspective of relationships changed."_
 
 [https://www.youtube.com/watch?v=6p7SY6AZtW4](https://www.youtube.com/watch?v=6p7SY6AZtW4 "https://www.youtube.com/watch?v=6p7SY6AZtW4")
+
+{{% youtube id="[6p7SY6AZtW4](https://www.youtube.com/watch?v=6p7SY6AZtW4 "https://www.youtube.com/watch?v=6p7SY6AZtW4")" %}}
