@@ -9,7 +9,7 @@ linkName = "Tickets"
 location = "London - booking"
 [[event]]
 date = "2020-04-25T11:00:00+00:00"
-location = "Bristol"
+location = "Bristol - booking"
 
 +++
 * Are you looking for love, connection, intimacy and relationship?
