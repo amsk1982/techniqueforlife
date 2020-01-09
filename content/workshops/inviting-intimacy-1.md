@@ -37,4 +37,4 @@ Two-together ticket
 
 [https://www.youtube.com/watch?v=6p7SY6AZtW4](https://www.youtube.com/watch?v=6p7SY6AZtW4 "https://www.youtube.com/watch?v=6p7SY6AZtW4")
 
-{{% youtube id="[6p7SY6AZtW4](https://www.youtube.com/watch?v=6p7SY6AZtW4 "https://www.youtube.com/watch?v=6p7SY6AZtW4")" %}}
+{{% youtube id="6p7SY6AZtW4" %}}
