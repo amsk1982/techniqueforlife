@@ -1,6 +1,5 @@
 +++
-date = "2020-10-03T00:00:00+00:00"
-draft = true
+date = 2020-10-03T00:00:00Z
 summary = "Living Tantra is for people who want to experience richer relationships, deeper intimacy and more authentic connection with others."
 title = "Living Tantra 1"
 [[event]]
