@@ -11,7 +11,7 @@ location = "Bristol"
 +++
 **Friday 6th March (evening) to Sunday 8th March 2020**
 
-To be intimate with others we must first become intimate with ourselves; to listen closely to our inner world on all levels and to welcome what we find. When we become familiar and comfortable with our feelings, thoughts and emotions we can bring the whole of ourselves into our relating with others - even the bits that we feel awkward about. This is what builds true intimacy: Having the courage & honesty to show our wants & needs, to voice our true “yes” and “no”, so that we can enter into connection with trust and acceptance of both ourselves and the other.  
+To be intimate with others we must first become intimate with ourselves; to listen closely to our inner world on all levels and to welcome what we find. When we become familiar and comfortable with our feelings, thoughts and emotions we can bring the whole of ourselves into our relating with others - even the bits that we feel awkward about. This is what builds true intimacy: Having the courage & honesty to show our wants & needs, to voice our true “yes” and “no”, so that we can enter into connection with trust and acceptance of both ourselves and the other.
 
 _There's also a short introductory video below._
 
@@ -23,7 +23,7 @@ Timings: -
 
 Friday 6th March 7.00 - 10.00pm
 
-Saturday 7th March  10.30am - 7.00pm
+Saturday 7th March  10.30am - 9.30pm
 
 Sunday 8th March 10.30am - 4.00pm
 
@@ -37,4 +37,4 @@ Two-together ticket
 
 > _"Fantastic leaders Ed & Bethan making it a safe, calm environment for 'Personal Development'. I came away feeling relaxed & refreshed and my perspective of relationships changed."_
 
-{{% youtube id="6p7SY6AZtW4" %}}
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/6p7SY6AZtW4](https://www.youtube.com/embed/6p7SY6AZtW4 "https://www.youtube.com/embed/6p7SY6AZtW4")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
