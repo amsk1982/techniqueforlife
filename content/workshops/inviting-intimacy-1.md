@@ -9,7 +9,7 @@ linkName = "Link to ticket site"
 location = "Bristol"
 
 +++
-_To book please follow the link to the left_
+_<--  To book please follow the link to the left, or contact me with any queries_
 
 **Friday 6th March (evening) to Sunday 8th March 2020**
 
