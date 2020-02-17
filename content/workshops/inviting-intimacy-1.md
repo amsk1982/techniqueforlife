@@ -11,6 +11,8 @@ location = "Bristol"
 +++
 **Friday 6th March (evening) to Sunday 8th March 2020**
 
+_To book please follow the link to the left_
+
 To be intimate with others we must first become intimate with ourselves; to listen closely to our inner world on all levels and to welcome what we find. When we become familiar and comfortable with our feelings, thoughts and emotions we can bring the whole of ourselves into our relating with others - even the bits that we feel awkward about. This is what builds true intimacy: Having the courage & honesty to show our wants & needs, to voice our true “yes” and “no”, so that we can enter into connection with trust and acceptance of both ourselves and the other.
 
 _There's also a short introductory video below._
