@@ -5,7 +5,7 @@ title = "Meetings Without Masks"
 [[event]]
 date = "2020-04-25T11:00:00+00:00"
 link = "https://www.eventbrite.com/e/meetings-without-masks-tickets-89048391135"
-location = "Bristol - tickets"
+location = "book for Bristol "
 [[event]]
 date = "2020-05-17T00:00:00+00:00"
 link = "https://www.eventbrite.com/e/meetings-without-masks-may-tickets-90610202555"
