@@ -10,7 +10,7 @@ location = "book for Bristol "
 date = "2020-05-17T00:00:00+00:00"
 link = "https://www.eventbrite.com/e/meetings-without-masks-may-tickets-90610202555"
 linkName = "Eventbrite"
-location = "London - tickets"
+location = "book for London"
 
 +++
 * Are you looking for love, connection, intimacy and relationship?
