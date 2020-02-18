@@ -13,6 +13,8 @@ linkName = "Eventbrite"
 location = "book for London"
 
 +++
+_To book, follow the links to the left_
+
 * Are you looking for love, connection, intimacy and relationship?
 * Are you finding it hard to meet the right person?
 * Have you tried the Internet, speed dating or the singles scene and felt it ring a bit hollow? Are you looking for more but not quite sure how to find it?
