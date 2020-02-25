@@ -33,6 +33,8 @@ _“I really enjoyed the whole day, discovering what is true for me in relations
 
 _“For me, this is an interactive, skilfully held event for single people rather than a dating event so there is no pressure and, probably, because of this I was relaxed and made some good connections.”_ Adrian
 
+_“This workshop has really helped me see & experience how to approach relationships in a way that will probably serve me and the other.”_ Jonathan
+
 _“A beautifully held space for connections to emerge. Simple exercises which bring awareness to what’s important to me when connecting with others.”_ Anon.
 
 {{% youtube id="1nJWNjniPT8" %}}
