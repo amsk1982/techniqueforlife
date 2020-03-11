@@ -13,7 +13,7 @@ linkName = "Eventbrite"
 location = "book for London"
 
 +++
-_To book, follow the links to the left_
+_To book, follow the links_
 
 * Are you looking for love, connection, intimacy and relationship?
 * Are you finding it hard to meet the right person?
