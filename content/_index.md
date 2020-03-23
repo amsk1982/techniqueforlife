@@ -8,8 +8,8 @@ title = "Homepage"
 ##### Contact: 07515 482 426 / Bethan@TechniqueForLife.com
 
 Bethan offers **_Wholeness coaching_**, **_Shadow Work_** coaching,  
-School of Being workshops on themes of **_relating & intimacy_,**  
-and **_Alexander Technique_** for individuals and groups.
+School of Being workshops on themes of _relating & intimacy_,  
+and _Alexander Technique_ for individuals and groups.
 
 She invites you to welcome yourself exactly as you are in each moment as a starting point for opening to your full self.  Her aim is to create an accepting, non-judgmental space for whatever arises.
 
