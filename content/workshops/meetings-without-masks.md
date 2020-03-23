@@ -17,7 +17,7 @@ Follow the link for 25th April if you'd like to be kept informed about...
 
 #### Meetings Without Masks Online - coming soon
 
-_I'm hearing it all around - singles just starting to feel ready to date again.... already feeling starved of meaningful contact... daunted because it can look like there won't be opportunities to meet new people for the foreseeable future.    So we're working on bringing you some of the "Meetings Without Masks" magic through the technology while we're unable to run the day events._  
+_I'm hearing it all around - singles just starting to feel ready to date again.... already feeling starved of meaningful contact... daunted because it can look like there won't be opportunities to meet new people for the foreseeable future.    **SO**, while we're unable to run the day events, we'll be bringing you some of the "Meetings Without Masks" magic through the technology.  See you there?_  
 
 * Are you looking for love, connection, intimacy and relationship?
 * Are you finding it hard to meet the right person?
