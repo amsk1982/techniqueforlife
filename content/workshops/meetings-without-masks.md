@@ -5,7 +5,7 @@ title = "Meetings Without Masks"
 [[event]]
 date = "2020-04-25T11:00:00+00:00"
 link = "http://eepurl.com/gIC8Xz"
-location = "Click here to sign up for updates about Meetings Online"
+location = "Click here to sign up for updates"
 [[event]]
 date = "2020-05-17T00:00:00+00:00"
 link = "https://www.eventbrite.com/e/meetings-without-masks-may-tickets-90610202555"
@@ -13,7 +13,7 @@ linkName = "Eventbrite"
 location = "book for London"
 
 +++
-Follow the link for 25th April if you'd like to be kept informed
+Follow the link for 25th April if you'd like to be kept informed about
 
 #### Meetings Without Masks Online - coming soon
 
