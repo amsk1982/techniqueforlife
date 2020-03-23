@@ -13,6 +13,11 @@ linkName = "Eventbrite"
 location = "book for London"
 
 +++
+#### Meetings Without Masks Online - coming soon
+
+I'm hearing it all around - singles just starting to feel ready to date again.... already feeling starved of meaningful contact... daunted because it can look like there won't be opportunities to meet new people for the foreseeable future.    So we're working on bringing you some of the "Meetings Without Masks" magic through the technology while we're unable to run the day events.  
+
+Feel free to sign up here if you'd like to be kept informed: [http://eepurl.com/gIC8Xz](http://eepurl.com/gIC8Xz "here")
 
 * Are you looking for love, connection, intimacy and relationship?
 * Are you finding it hard to meet the right person?
