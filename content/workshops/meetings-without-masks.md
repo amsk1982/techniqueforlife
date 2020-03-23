@@ -5,7 +5,7 @@ title = "Meetings Without Masks"
 [[event]]
 date = "2020-04-25T11:00:00+00:00"
 link = "http://eepurl.com/gIC8Xz"
-location = "Click here to sign up for updates"
+location = "Click here to sign up for updates about Meetings Online"
 [[event]]
 date = "2020-05-17T00:00:00+00:00"
 link = "https://www.eventbrite.com/e/meetings-without-masks-may-tickets-90610202555"
@@ -17,7 +17,7 @@ Follow the link to sign up if you'd like to be kept informed
 
 #### Meetings Without Masks Online - coming soon
 
-I'm hearing it all around - singles just starting to feel ready to date again.... already feeling starved of meaningful contact... daunted because it can look like there won't be opportunities to meet new people for the foreseeable future.    So we're working on bringing you some of the "Meetings Without Masks" magic through the technology while we're unable to run the day events.  
+_I'm hearing it all around - singles just starting to feel ready to date again.... already feeling starved of meaningful contact... daunted because it can look like there won't be opportunities to meet new people for the foreseeable future.    So we're working on bringing you some of the "Meetings Without Masks" magic through the technology while we're unable to run the day events._  
 
 * Are you looking for love, connection, intimacy and relationship?
 * Are you finding it hard to meet the right person?
