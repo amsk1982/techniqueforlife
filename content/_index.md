@@ -3,6 +3,8 @@ date = 2019-05-04T21:04:03Z
 title = "Homepage"
 
 +++
+Online offerings available: details on the relevant pages or 
+
 ##### Contact:   07515 482 426       Bethan@TechniqueForLife.com
 
 Bethan offers Wholeness coaching,             Shadow Work coaching,  
