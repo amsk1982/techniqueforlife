@@ -13,7 +13,7 @@ linkName = "Eventbrite"
 location = "book for London"
 
 +++
-Follow the link to sign up if you'd like to be kept informed
+Follow the link for 25th April if you'd like to be kept informed
 
 #### Meetings Without Masks Online - coming soon
 
