@@ -5,7 +5,7 @@ title = "Meetings Without Masks"
 [[event]]
 date = "2020-04-25T11:00:00+00:00"
 link = "https://www.eventbrite.com/e/meetings-without-masks-tickets-89048391135"
-location = "book for Bristol "
+location = "Bristol "
 [[event]]
 date = "2020-05-17T00:00:00+00:00"
 link = "https://www.eventbrite.com/e/meetings-without-masks-may-tickets-90610202555"
@@ -13,7 +13,6 @@ linkName = "Eventbrite"
 location = "book for London"
 
 +++
-_To book, follow the links_
 
 * Are you looking for love, connection, intimacy and relationship?
 * Are you finding it hard to meet the right person?
