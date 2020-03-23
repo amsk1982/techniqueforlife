@@ -10,7 +10,7 @@ location = "Click to sign up for updates"
 date = "2020-05-17T00:00:00+00:00"
 link = "http://eepurl.com/gIC8Xz"
 linkName = "Eventbrite"
-location = "Click to sign up for updates"
+location = "Click for updates"
 
 +++
 Follow the link for 25th April if you'd like to be kept informed about...
