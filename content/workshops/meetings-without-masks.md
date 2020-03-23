@@ -13,7 +13,7 @@ linkName = "Eventbrite"
 location = "Click here to sign up for updates"
 
 +++
-Follow the link for 25th April if you'd like to be kept informed about
+Follow the link for 25th April if you'd like to be kept informed about...
 
 #### Meetings Without Masks Online - coming soon
 
