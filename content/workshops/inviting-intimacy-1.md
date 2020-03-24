@@ -1,5 +1,6 @@
 +++
 date = ""
+draft = true
 summary = "A weekend to explore and deepen your relationship with yourself and others - all welcome"
 title = "Inviting Intimacy"
 [[event]]
