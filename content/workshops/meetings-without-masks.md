@@ -5,7 +5,7 @@ title = "Meetings Without Masks"
 [[event]]
 date = "2020-04-25T11:00:00+00:00"
 link = "http://eepurl.com/gIC8Xz"
-location = "Click to sign up for updates"
+location = "Click for updates"
 [[event]]
 date = "2020-05-17T00:00:00+00:00"
 link = "http://eepurl.com/gIC8Xz"
