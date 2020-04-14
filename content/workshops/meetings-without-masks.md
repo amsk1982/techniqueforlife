@@ -3,9 +3,9 @@ date = 2019-05-05T09:58:10Z
 summary = "A gender balanced workshop for single people "
 title = "Meetings Without Masks"
 [[event]]
-date = "2020-04-25T11:00:00+00:00"
-link = "http://eepurl.com/gIC8Xz"
-location = "Click for updates"
+date = "2020-04-18T11:00:00+00:00"
+link = "https://buytickets.at/bethanevans/364734"
+location = "Online - on Zoom"
 [[event]]
 date = "2020-05-17T00:00:00+00:00"
 link = "http://eepurl.com/gIC8Xz"
@@ -13,11 +13,9 @@ linkName = "Eventbrite"
 location = "Click for updates"
 
 +++
-Follow the link for 25th April if you'd like to be kept informed about...
+#### Meetings Without Masks Online 
 
-#### Meetings Without Masks Online - coming soon
-
-_I'm hearing it all around - singles just starting to feel ready to date again.... already feeling starved of meaningful contact... daunted because it can look like there won't be opportunities to meet new people for the foreseeable future.    **SO**, while we're unable to run the day events, we'll be bringing you some of the "Meetings Without Masks" magic through the technology.  See you there?_  
+_I'm hearing it all around - singles just starting to feel ready to date again.... already feeling starved of meaningful contact... daunted because it can look like there won't be opportunities to meet new people for the foreseeable future.    **SO**, while we're unable to run the day events, we'll be bringing you some of the "Meetings Without Masks" magic through the technology.  See you there?_
 
 * Are you looking for love, connection, intimacy and relationship?
 * Are you finding it hard to meet the right person?
