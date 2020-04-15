@@ -15,15 +15,13 @@ linkName = ""
 location = "Online, on Zoom"
 
 +++
-#### Meetings Without Masks Online
+#### We're still bringing you some of the "Meetings Without Masks" magic, only now it's online.
 
 * _Already feeling starved of meaningful contact...?_ 
 * _Just starting to feel ready to date again....?_ 
 * _Daunted because looks like there may not be opportunities to meet new people for the foreseeable future?_    
 
-  We're still bringing you some of the "Meetings Without Masks" magic, only now it's online.
-
-_Saturday 25th April at 6.45pm we're doing a facebook live: "What is Meetings Without Masks Online?"_
+You're invited to join me and Ed Rooke at 6.45pm on Saturday 25th April for a facebook live: **"What is Meetings Without Masks Online?"** and then bi-monthly on Saturday evenings.
 
 In this time of isolation our deep needs for love, support and safety are crying out to be met, now more than ever.
 
