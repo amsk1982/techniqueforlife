@@ -7,10 +7,10 @@ date = "2020-04-18T11:00:00+00:00"
 link = "https://buytickets.at/bethanevans/364734"
 location = "Online - on Zoom"
 [[event]]
-date = "2020-05-17T00:00:00+00:00"
+date = "2020-05-02T00:00:00+00:00"
 link = "http://eepurl.com/gIC8Xz"
-linkName = "Eventbrite"
-location = "Click for updates"
+linkName = ""
+location = "Online - on Zoom"
 
 +++
 #### Meetings Without Masks Online 
