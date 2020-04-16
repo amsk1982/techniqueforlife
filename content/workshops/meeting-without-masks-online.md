@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 summary = "A workshop for people available for dating and possible relationship"
 title = "Meeting Without Masks Online"
 [[event]]
