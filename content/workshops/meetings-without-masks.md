@@ -1,5 +1,6 @@
 +++
 date = 2019-05-05T09:58:10Z
+draft = true
 summary = "A gender balanced workshop for single people "
 title = "Meetings Without Masks"
 [[event]]
@@ -13,7 +14,7 @@ linkName = ""
 location = "Online - on Zoom"
 
 +++
-#### Meetings Without Masks Online 
+#### Meetings Without Masks 
 
 _I'm hearing it all around - singles just starting to feel ready to date again.... already feeling starved of meaningful contact... daunted because it can look like there won't be opportunities to meet new people for the foreseeable future.    **SO**, while we're unable to run the day events, we'll be bringing you some of the "Meetings Without Masks" magic through the technology.  See you there?_
 
