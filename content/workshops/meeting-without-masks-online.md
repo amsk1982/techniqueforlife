@@ -14,7 +14,7 @@ linkName = ""
 location = "On Zoom"
 
 +++
-#### We're still bringing you some of the "Meetings Without Masks" magic, only now it's online.
+#### We're still bringing you some of the "Meetings Without Masks" magic \~ now it's online.
 
 [Click here for tickets for future events](https://buytickets.at/bethanevans)
 
