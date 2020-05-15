@@ -25,7 +25,7 @@ During a first career in the helping professions Bethan was drawn to Alexander T
 Over time she has trained and practiced as an Alexander Technique teacher, a Shadow Work coach and with renowned relationship expert Jan Day in her School of Being.  
 She continues to study with Jan Day and with Joanna Watters ("Supporting a radical acceptance of present moment reality")
 
-![](/uploads/bethanevansoutdoorsml.jpg)
+![](/uploads/bethanevansoutdoorsml.jpg)![](/uploads/be2020.04.22sml.jpg)
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
