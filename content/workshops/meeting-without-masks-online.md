@@ -4,14 +4,14 @@ summary = "A workshop for people available for dating and possible relationship"
 title = "Meeting Without Masks Online"
 [[event]]
 date = "2020-05-02T00:00:00+00:00"
-link = "https://buytickets.at/bethanevans/367495"
+link = "https://buytickets.at/bethanevans"
 linkName = ""
 location = "On Zoom"
 
 +++
 #### We're still bringing you some of the "Meetings Without Masks" magic \~ now it's online.
 
-[Click here for tickets for future events](https://buytickets.at/bethanevans)
+[Click here for tickets](https://buytickets.at/bethanevans)
 
 * _Already feeling starved of meaningful contact...?_
 * _Just starting to feel ready to date again....?_
