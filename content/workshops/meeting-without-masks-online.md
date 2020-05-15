@@ -3,7 +3,7 @@ date = ""
 summary = "A workshop for people available for dating and possible relationship"
 title = "Meeting Without Masks Online"
 [[event]]
-date = "2020-05-02T00:00:00+00:00"
+date = "2020-06-06T00:00:00+00:00"
 link = "https://buytickets.at/bethanevans"
 linkName = ""
 location = "On Zoom"
