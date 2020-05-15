@@ -29,3 +29,5 @@ _"I thought the structure of the day worked really well to build trust and a sen
 _"Lovely facilitation, really clear guidelines & instructions. Thank you!"_
 
 _"I thought you and Ed did an amazing job holding the space in such a safe and nourishing way..."_
+
+![](/uploads/beinactionsml-3.jpg)
