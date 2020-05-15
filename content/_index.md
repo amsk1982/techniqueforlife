@@ -25,6 +25,8 @@ During a first career in the helping professions Bethan was drawn to Alexander T
 Over time she has trained and practiced as an Alexander Technique teacher, a Shadow Work coach and with renowned relationship expert Jan Day in her School of Being.  
 She continues to study with Jan Day and with Joanna Watters ("Supporting a radical acceptance of present moment reality")
 
+![](/uploads/bethanevansoutdoorsml.jpg)
+
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -39,12 +41,12 @@ We recommend moving this block and the preceding CSS link to the HEAD of your HT
 \#mc-embedded-subscribe-form .mc_fieldset{border:none;min-height: 0px;padding-bottom:0px;}
 </style>
 <div id="mc_embed_signup">
-<form action="https://TechniqueForLife.us1.list-manage.com/subscribe/post?u=132947c457b186b9c745b3be4&id=9d155328b5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="https://TechniqueForLife.us1.list-manage.com/subscribe/post?u=132947c457b186b9c745b3be4&id=9d155328b5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="blank" novalidate>
 <div id="mc_embed_signup_scroll">
 <h2>Subscribe</h2>
 <div class="indicates-required"><span class="asterisk">_</span> indicates required</div>
 <div class="mc-field-group">
-<label for="mce-EMAIL">Email Address  <span class="asterisk">_</span>
+<label for="mce-EMAIL">Email Address  <span class="asterisk"></span>
 </label>
 <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
