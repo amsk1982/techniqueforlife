@@ -1,5 +1,5 @@
 +++
-date = 2020-03-17T00:00:00Z
+date = 2020-05-31T23:00:00Z
 event = []
 summary = "One-to-one coaching"
 title = "Wholeness coaching & ShadowWork coaching"
@@ -7,9 +7,9 @@ title = "Wholeness coaching & ShadowWork coaching"
 +++
 ##### **_Wholeness_ coaching**
 
-I believe we all want to feel whole and when we don't, we find life difficult, and then some of us go searching.  I offer you support, encouragement and reflection for your process, drawing on my trainings and on years of experience of my own and others' journeys.
+I believe we all want to feel whole and when we don't, we find life difficult - and then some of us go searching.  I offer you support, encouragement and reflection for your process, drawing on my trainings and on years of experience of my own and others' journeys.
 
-See me as your personal cheerleader, walking beside you as you move forwards, ready to lend a hand when needed or help you shine a light into dark corners of yourself, always on your side.  
+See me as your personal cheerleader, walking beside you as you move forwards, ready to lend a hand when needed or help you shine a light into dark corners of yourself, always on your side.
 
 ##### One-to-one **_ShadowWork_ coaching** is also now available.
 
