@@ -5,6 +5,8 @@ summary = "One-to-one coaching"
 title = "Wholeness coaching & ShadowWork coaching"
 
 +++
+_Both available online_
+
 ##### **_Wholeness_ coaching**
 
 I believe we all want to feel whole and when we don't, we find life difficult - and then some of us go searching.  I offer you support, encouragement and reflection for your process, drawing on my trainings and on years of experience of my own and others' journeys.
