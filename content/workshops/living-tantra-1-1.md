@@ -6,7 +6,7 @@ title = "Living Tantra 1"
 date = "2020-10-03T00:00:00+00:00"
 link = "https://www.edrooke.com/booking-lt1"
 linkName = "h"
-location = "Living Tantra 1; 3rd - 10th October 2020, Devon"
+location = "3rd - 10th October 2020, Devon"
 
 +++
 Living Tantra 1 is a carefully structured seven day residential workshop which includes guided meditations, explorations in small groups and sharing circles. Many of these explorations involve dance and touch, two simple actions which can encourage all that is within to be held with consciousness and compassion. You will also be introduced to ritual and ceremony, to breath work and the body's natural sources of energy. This workshop invites participants into expansion of the heart, mind and body. 
