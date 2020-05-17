@@ -9,6 +9,8 @@ linkName = "h"
 location = "3rd - 10th October 2020, Devon"
 
 +++
+[Click here](https://www.edrooke.com/booking-lt1) to book
+
 Living Tantra 1, is a carefully structured seven day residential workshop which includes guided meditations, explorations in small groups and sharing circles. Many of these explorations involve movement and touch, two simple actions which can encourage all that is within to be held with consciousness and compassion. You will also be introduced to ritual and ceremony, to breath work and the body's natural sources of energy. This workshop, which I lead with [Ed Rooke](https://www.edrooke.com/), invites participants into expansion of the heart, mind and body.
 
 The workshop will focus on the ways that we love, relate and express our sexuality as man or woman. It aims to open participants to a deeper 'yes' to all that they are. In the process, you will discover the potential for ease, delight, playfulness and consciousness. You will meet others in a caring and respectful environment and you will be encouraged to awaken a more spiritual connection with your sexuality. You will learn to discover your desires and how to express them openly, with care and respect. You will learn to love and honour yourself and your sexual nature as a man or woman and to celebrate your sensitivity, sensuality and innocence. Throughout Living Tantra your willingness to be alive and present with your core emotions is always encouraged. Explorations that focus on discovering and expressing your personal boundaries are an integral part of Living Tantra.
@@ -16,6 +18,24 @@ The workshop will focus on the ways that we love, relate and express our sexuali
 Living Tantra gives you permission to enjoy pleasure. It also gives you the permission to say 'no'. The workshop invites you to connect with truth and love, to discover and integrate your masculine and feminine selves.  Allow your spirit to connect with your body, give yourself a truly holistic experience which can set the tone and pace of your future sexual self!
 
 There is no pre-requisite for Living Tantra 1, you are of course welcome to attend an Introduction to Living Tantra day and / or Inviting Intimacy weekend workshop beforehand.
+
+**Practicalities: -**
+
+_TIMINGS:_  _START -_ Saturday 3rd October arrive between 5 - 6pm, with dinner at 6pm.  First session begins at 7.30pm     _FINISH -_ Saturday 10th October 3pm
+
+_VENUE:_ [Eden Rise](http://www.edenrise.org/), a beautiful retreat centre near to Totnes in South Devon.  Direct train connection to London, journey time under 3 hours.    
+
+_ACCOMMODATION_ in standard dormitories (4 - 6 beds) with possibilities for camping or upgrade to twin rooms.
+
+_PRICES_
+
+£785 Standard price
+
+£695 Early bird price (until 28/07/20)
+
+**£645** Super early bird price (until 08/06/20)
+
+[Click here](https://www.edrooke.com/booking-lt1) to book, or feel free to contact me with any questions.
 
 ### Living Tantra
 
