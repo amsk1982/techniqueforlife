@@ -1,5 +1,5 @@
 +++
-date = ""
+date = 2020-06-04T23:00:00Z
 summary = "A workshop for people available for dating and possible relationship"
 title = "Meeting Without Masks Online"
 [[event]]
