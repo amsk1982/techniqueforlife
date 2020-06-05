@@ -1,5 +1,6 @@
 +++
 date = 2019-05-05T09:17:15Z
+draft = true
 summary = "Living Tantra is for people who want to experience richer relationships, deeper intimacy and more authentic connection with others."
 title = "Introduction to Living Tantra"
 [[event]]
