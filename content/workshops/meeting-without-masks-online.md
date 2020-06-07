@@ -11,7 +11,7 @@ location = "On Zoom, with Nicola & Jason"
 date = "2020-07-04T00:00:00+00:00"
 link = "https://buytickets.at/bethanevans"
 linkName = ""
-location = "On Zoom, with myself and Ed"
+location = "On Zoom, with me and Ed"
 
 +++
 #### We're still bringing you some of the "Meetings Without Masks" magic \~ now it's online.
