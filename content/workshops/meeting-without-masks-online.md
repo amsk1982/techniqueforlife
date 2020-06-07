@@ -21,7 +21,7 @@ location = "Online with me and Ed"
 +++
 #### We're still bringing you some of the "Meetings Without Masks" magic \~ now it's online.
 
-[Click here for tickets](https://buytickets.at/bethanevans) for events with me & Ed, we run them alternately with our dear friends and colleagues Nicola & Jason
+[Click here for tickets](https://buytickets.at/bethanevans) for events with me & Ed, we run them alternately with our friends-colleagues Nicola & Jason
 
 * _Already feeling starved of meaningful contact...?_
 * _Just starting to feel ready to date again....?_
