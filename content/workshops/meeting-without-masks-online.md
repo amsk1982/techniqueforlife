@@ -6,7 +6,7 @@ title = "Meeting Without Masks Online"
 date = "2020-06-20T00:00:00+00:00"
 link = "https://www.tickettailor.com/events/nicolafoster/"
 linkName = ""
-location = "on Zoom, with Nicola & Jason"
+location = "On Zoom, with Nicola & Jason"
 [[event]]
 date = "2020-07-04T00:00:00+00:00"
 link = "https://buytickets.at/bethanevans"
