@@ -31,3 +31,11 @@ Meetings without Masks Online is a workshop that enables you to meet interesting
 It is based on the Meetings without Masks day workshop created by relationship expert Jan Day, which we run regularly - admittedly, usually in person!
 
 If you or someone you know would like to hear us talk a bit about it, we did a facebook live - ["What is Meetings Without Masks Online?"](https://TechniqueForLife.us1.list-manage.com/track/click?u=132947c457b186b9c745b3be4&id=c88fdc03dc&e=66a7344f19)
+
+Meet the team:-  
+
+Here's a link to [Ed's website](https://www.edrooke.com/); I run 'Meetings' with Ed online and, when possible, in person.
+
+As do [Nicola](https://nicolafostercoaching.com/) & Jason -a couple who are dear friends and colleagues of ours.
+
+And of course there's the woman who devised the original workshop: [Jan Day](http://janday.com/) and her husband Frieder Fischer 
