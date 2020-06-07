@@ -3,11 +3,6 @@ date = 2020-06-04T23:00:00Z
 summary = "This evening workshop is for people who are available for dating and possible relationship"
 title = "Meeting Without Masks Online"
 [[event]]
-date = "2020-07-31T23:00:00+00:00"
-link = ""
-linkName = ""
-location = ""
-[[event]]
 date = "2020-06-20T00:00:00+00:00"
 link = "https://www.tickettailor.com/events/nicolafoster/"
 linkName = ""
