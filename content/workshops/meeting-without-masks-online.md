@@ -3,6 +3,11 @@ date = 2020-06-04T23:00:00Z
 summary = "A workshop for people available for dating and possible relationship"
 title = "Meeting Without Masks Online"
 [[event]]
+date = "2020-06-20T00:00:00+00:00"
+link = "https://www.tickettailor.com/events/nicolafoster/"
+linkName = ""
+location = "on Zoom, with Nicola & Jason"
+[[event]]
 date = "2020-07-04T00:00:00+00:00"
 link = "https://buytickets.at/bethanevans"
 linkName = ""
