@@ -14,7 +14,7 @@ linkName = ""
 location = "Online - on Zoom"
 
 +++
-#### Meetings Without Masks 
+#### Meetings Without Masks
 
 _I'm hearing it all around - singles just starting to feel ready to date again.... already feeling starved of meaningful contact... daunted because it can look like there won't be opportunities to meet new people for the foreseeable future.    **SO**, while we're unable to run the day events, we'll be bringing you some of the "Meetings Without Masks" magic through the technology.  See you there?_
 
@@ -49,3 +49,11 @@ _“A beautifully held space for connections to emerge. Simple exercises which b
 <div>A singles event that includes mind, body, heart and soul, alongside humor and tenderness, dancing and laughter.</div>
 
 <div>Whether you meet your soul mate or not, it is a great opportunity to enjoy, and maybe risk, being a little (or a lot!) more intimate and human and alive.</div>
+
+Meet the team:-  
+
+Here's a link to [Ed's website](https://www.edrooke.com/); I run various workshops with Ed, both online and in person.
+
+[Nicola](https://nicolafostercoaching.com/) & Jason (a couple) are dear friends and colleagues of ours. who also run Meetings Without Masks in London and online.
+
+And of course there's the woman who devised the original workshop: [Jan Day](http://janday.com/) and her husband Frieder Fischer 
