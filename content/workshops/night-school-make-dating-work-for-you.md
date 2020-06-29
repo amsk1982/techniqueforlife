@@ -9,8 +9,7 @@ linkName = ""
 location = "On Zoom"
 
 +++
-
-#### **'Night school'** for women **-** _make dating work for you_
+##### **'Night school'** for women **-** _make dating work for you_
 
 This is an evening workshop just for women - a relaxed, fun place to learn and share together, which I lead with my dear friend and colleague Nicola Foster
 
@@ -18,8 +17,8 @@ This is an evening workshop just for women - a relaxed, fun place to learn and s
 * Is internet dating a poor fit for you? (even though it looks like the only option at the moment?...)
 * Would you like a fresh look at the whole shebang?
 
-Come and join me, Nicola and a group of other open-hearted women to;   
-\- explore the questions, curiosities and struggles you have in dating, 
+Come and join me, Nicola and a group of other open-hearted women to;  
+\- explore the questions, curiosities and struggles you have in dating,
 
 \- get more in touch with your boundaries and feelings,
 
