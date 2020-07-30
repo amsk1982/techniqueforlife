@@ -29,9 +29,7 @@ _ACCOMMODATION_ in standard dormitories (4 - 6 beds) with possibilities for camp
 
 _PRICES_
 
-£785 Standard price
-
-**£695** Early bird price (until 28/07/20)
+£785 Standard price (dormitory accommodation)
 
 [Click here](https://www.edrooke.com/booking-lt1) to book, or feel free to contact me with any questions.
 
