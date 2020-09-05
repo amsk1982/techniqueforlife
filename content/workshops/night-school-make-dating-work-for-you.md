@@ -6,7 +6,7 @@ title = "Night School"
 date = "2020-09-23T00:00:00+00:00"
 link = "https://www.tickettailor.com/events/bethanevans/"
 linkName = ""
-location = "On Zoom"
+location = "Online"
 
 +++
 ##### **'Night school'** for women **-** _make dating work for you_
