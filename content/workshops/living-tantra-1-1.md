@@ -3,10 +3,10 @@ date = 2020-04-03T00:00:00Z
 summary = "Living Tantra is for people who want to experience richer relationships, deeper intimacy and more authentic connection with others."
 title = "Living Tantra 1"
 [[event]]
-date = "2020-10-03T00:00:00+00:00"
+date = "2021-02-20T01:00:00+00:00"
 link = "https://www.edrooke.com/booking-lt1"
 linkName = "h"
-location = "3rd - 10th October 2020, Devon"
+location = "20th - 27th February 2021, Devon"
 
 +++
 [Click here](https://www.edrooke.com/booking-lt1) to book
