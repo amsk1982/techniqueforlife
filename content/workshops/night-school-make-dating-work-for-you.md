@@ -4,7 +4,7 @@ summary = "An evening workshop for women - a relaxed, fun place to share and lea
 title = "Night School"
 [[event]]
 date = "2020-09-23T00:00:00+00:00"
-link = "https://www.tickettailor.com/events/nicolafoster/"
+link = "https://www.tickettailor.com/events/bethanevans/"
 linkName = ""
 location = "On Zoom"
 
