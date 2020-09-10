@@ -17,6 +17,12 @@ and **_Alexander Technique_** for individuals and groups.
 
 She invites you to welcome yourself exactly as you are in each moment as a starting point for opening to your full self.  Her aim is to create an accepting, non-judgmental space for whatever arises.
 
+\~ \~ \~
+
+In advance of having a page for resources, here is a [very short video](https://www.tickettailor.com/events/bethanevans/402973/) to start with
+
+\~ \~ \~
+
 ##### About Bethan:-
 
 During a first career in the helping professions Bethan was drawn to Alexander Technique and later to Shadow Work and Tantra, all of which helped her deal with personal challenges such as bereavement, depression and a sense of not belonging.
