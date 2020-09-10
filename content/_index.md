@@ -9,7 +9,7 @@ _MEETINGS WITHOUT MASKS IS ON THE 'WORKSHOPS' PAGE_
 
 [_Click here_](http://eepurl.com/gIC8Xz) _to sign up for occasional news emails_
 
-\~ \~ \~
+      \~ \~ \~
 
 Bethan offers **_Wholeness coaching_**,     **_Shadow Work_** coaching,
 School of Being workshops on themes of **_relating & intimacy_**,  
@@ -17,13 +17,13 @@ and **_Alexander Technique_** for individuals and groups.
 
 She invites you to welcome yourself exactly as you are in each moment as a starting point for opening to your full self.  Her aim is to create an accepting, non-judgmental space for whatever arises.
 
-\~ \~ \~
+     \~ \~ \~
 
 In advance of having a page dedicated to resources, here's a [very short video](/uploads/2020-06-11-willowwind.mp4) for you.
 
-\~ \~ \~
+     \~ \~ \~
 
-##### About Bethan:-
+##### About Bethan:-  
 
 During a first career in the helping professions Bethan was drawn to Alexander Technique and later to Shadow Work and Tantra, all of which helped her deal with personal challenges such as bereavement, depression and a sense of not belonging.
 
