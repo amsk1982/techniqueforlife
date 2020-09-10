@@ -32,7 +32,9 @@ It is based on the Meetings without Masks day workshop created by relationship e
 
 If you or someone you know would like to hear us talk a bit about it, we did a facebook live - ["What is Meetings Without Masks Online?"](https://TechniqueForLife.us1.list-manage.com/track/click?u=132947c457b186b9c745b3be4&id=c88fdc03dc&e=66a7344f19)
 
-Meet the team:-
+and there's a short FAQ-type conversation with Kenny Marmarella d'Cruz here: [mwm-short-chat-kmdc_trim001.mp4](/uploads/mwm-short-chat-kmdc_trim001.mp4 "mwm-short-chat-kmdc_trim001.mp4")
+
+**Meet the team**:-
 
 Here's a link to [Ed's website](https://www.edrooke.com/); I run 'Meetings' with Ed online and, when possible, in person.
 
