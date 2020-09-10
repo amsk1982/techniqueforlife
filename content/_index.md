@@ -19,7 +19,7 @@ She invites you to welcome yourself exactly as you are in each moment as a start
 
 \~ \~ \~
 
-In advance of having a page dedicated to resources, here is a [very short video](/uploads/2020-06-11-willowwind.mp4) for you.
+In advance of having a page dedicated to resources, here's a [very short video](/uploads/2020-06-11-willowwind.mp4) for you.
 
 \~ \~ \~
 
