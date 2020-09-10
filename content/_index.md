@@ -19,7 +19,7 @@ She invites you to welcome yourself exactly as you are in each moment as a start
 
 \~ \~ \~
 
-In advance of having a page for resources, here is a [very short video](https://www.tickettailor.com/events/bethanevans/402973/) to start with
+In advance of having a page for resources, here is a [very short video](/uploads/2020-06-11-willowwind.mp4) to start. [2020-06-11-willowwind.mp4](/uploads/2020-06-11-willowwind.mp4 "2020-06-11-willowwind.mp4") 
 
 \~ \~ \~
 
