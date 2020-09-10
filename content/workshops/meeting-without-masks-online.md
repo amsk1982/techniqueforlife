@@ -16,11 +16,13 @@ location = "Online with Nicola & Jason - date TBC"
 +++
 #### We're still bringing you "Meetings Without Masks" \~ now it's online.
 
-[Click here for tickets](https://buytickets.at/bethanevans) for events with me & Ed, we alternate dates with our colleagues and friends Nicola & Jason
+[Click here for tickets](https://buytickets.at/bethanevans) for events with me & Ed; we alternate dates with our colleagues and friends Nicola & Jason
 
 * _Feeling starved of meaningful contact...?_
 * _Just starting to feel ready to date again....?_
-* _Daunted because it looks like there may not be many opportunities to meet new people?_
+* _Daunted because it looks like there may not be many opportunities to meet new people for a while?_
+
+![](/uploads/mwmoimagesml.jpeg)
 
 In this time of limited contact our deep needs for love, support and safety are crying out to be met, now more than ever.
 
