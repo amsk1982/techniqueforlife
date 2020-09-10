@@ -5,9 +5,7 @@ title = "Homepage"
 +++
 _MEETINGS WITHOUT MASKS IS ON THE 'WORKSHOPS' PAGE_
 
-###### Online offerings available: details on the relevant pages or
-
-##### Contact: 07515 482 426 / [Bethan@TechniqueForLife.com](mailto:bethan@techniqueforlife.com)
+##### Contact: 07515 482 426 / [Bethan@TechniqueForLife.com](mailto:bethan@techniqueforlife.com) or
 
 [_Click here_](http://eepurl.com/gIC8Xz) _to sign up for newsletters_
 
