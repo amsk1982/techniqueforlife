@@ -16,7 +16,7 @@ location = "Online with Nicola & Jason - date TBC"
 +++
 #### We're still bringing you "Meetings Without Masks" \~ now it's online.
 
-[Click here for tickets](https://buytickets.at/bethanevans) for events with me & Ed, we run them alternately with our colleagues and friends Nicola & Jason
+[Click here for tickets](https://buytickets.at/bethanevans) for events with me & Ed, we alternate dates with our colleagues and friends Nicola & Jason
 
 * _Feeling starved of meaningful contact...?_
 * _Just starting to feel ready to date again....?_
