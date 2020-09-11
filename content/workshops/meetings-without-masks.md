@@ -6,11 +6,6 @@ title = "Meetings Without Masks in person"
 date = "2020-11-29T13:00:00+00:00"
 link = ""
 location = "Central Bristol"
-[[event]]
-date = "2020-05-02T00:00:00+00:00"
-link = "http://eepurl.com/gIC8Xz"
-linkName = ""
-location = "Online - on Zoom"
 
 +++
 #### Meetings Without Masks (the original!)
