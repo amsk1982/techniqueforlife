@@ -19,11 +19,7 @@ She invites you to welcome yourself exactly as you are in each moment as a start
 
      \~ \~ \~
 
-In advance of having a page dedicated to resources, here's a [very short video](/uploads/2020-06-11-willowwind.mp4) for you.
-
-     \~ \~ \~
-
-##### About Bethan:-  
+##### About Bethan:-
 
 During a first career in the helping professions Bethan was drawn to Alexander Technique and later to Shadow Work and Tantra, all of which helped her deal with personal challenges such as bereavement, depression and a sense of not belonging.
 
