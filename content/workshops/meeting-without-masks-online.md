@@ -40,6 +40,6 @@ and I had a conversation with [Kenny Mammarella-D'Cruz](https://www.kennydcruz.c
 
 Here's a link to [Ed's website](https://www.edrooke.com/); I run 'Meetings' with Ed online and, when possible, in person.
 
-As do [Nicola](https://nicolafostercoaching.com/) & Jason -a couple who are dear friends and colleagues of ours.
+As do [Nicola](https://nicolafostercoaching.com/) & Jason - a couple who are dear friends and colleagues of ours.
 
 And of course there's the woman who devised the original workshop: [Jan Day](http://janday.com/) and her husband Frieder Fischer
