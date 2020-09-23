@@ -5,7 +5,7 @@ summary = "One-to-one coaching"
 title = "Wholeness coaching & ShadowWork coaching"
 
 +++
-#### _Available online_
+#### _Available online - Bethan@TechniqueForLife.com, 07515 482 426_
 
 ##### **_Wholeness_ coaching**
 
