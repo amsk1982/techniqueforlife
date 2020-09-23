@@ -14,9 +14,9 @@ linkName = ""
 location = "Online with Nicola & Jason - date TBC"
 
 +++
-#### We're still bringing you "Meetings Without Masks" \~ now it's online.
+#### We're still bringing you "Meetings Without Masks" \~ now it's online.  
 
-[Click here for tickets](https://buytickets.at/bethanevans) for events with me & Ed; we alternate dates with our colleagues and friends Nicola & Jason
+[Click here for tickets](https://buytickets.at/bethanevans) for events with me & Ed; we alternate dates with our colleagues and friends Nicola & Jason.  [Here's me talking about it](https://youtu.be/QSugkKFG67s "KMD'C interview") with Kenny Mammarella-D'Cruz (aka "The Man Whisperer")
 
 * _Feeling starved of meaningful contact...?_
 * _Just starting to feel ready to date again....?_
@@ -34,7 +34,7 @@ It is based on the Meetings without Masks day workshop created by relationship e
 
 If you or someone you know would like to hear us talk a bit about it, we did a facebook live - ["What is Meetings Without Masks Online?"](https://TechniqueForLife.us1.list-manage.com/track/click?u=132947c457b186b9c745b3be4&id=c88fdc03dc&e=66a7344f19)
 
-and I had a conversation with [Kenny Mamarella-d'Cruz](https://www.kennydcruz.com/) ("the Man Whisperer"!) - the short version is like an FAQ about Meetings Without Masks online, [you can see it here](/uploads/mwmonline-faq-interview.mp4) 
+and I had a conversation with [Kenny Mammarella-D'Cruz](https://www.kennydcruz.com/) about it - the short version is like an FAQ about Meetings Without Masks online, [you can see it here](/uploads/mwmonline-faq-interview.mp4)
 
 **Meet the team**:-
 
