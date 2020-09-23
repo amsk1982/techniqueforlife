@@ -5,9 +5,9 @@ title = "Homepage"
 +++
 _MEETINGS WITHOUT MASKS IS ON THE 'WORKSHOPS' PAGE_
 
-##### _Contact: 07515 482 426 /_ [_Bethan@TechniqueForLife.com_](mailto:bethan@techniqueforlife.com) _or_
+##### _Contact: 07515 482 426_, [_Bethan@TechniqueForLife.com_](mailto:bethan@techniqueforlife.com) _or_
 
-[_Click here_](http://eepurl.com/gIC8Xz) _to sign up for occasional news emails_
+[_click here_](http://eepurl.com/gIC8Xz) _to sign up for occasional news emails_
 
 Bethan offers **_Wholeness coaching_**,     **_Shadow Work_** coaching,
 School of Being workshops on themes of **_relating & intimacy_**,  
