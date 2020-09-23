@@ -14,9 +14,9 @@ linkName = ""
 location = "Online with Nicola & Jason - date TBC"
 
 +++
-#### We're still bringing you "Meetings Without Masks" \~ now it's online.  
+#### We're still bringing you "Meetings Without Masks" \~ now it's online.
 
-[Click here for tickets](https://buytickets.at/bethanevans) for events with me & Ed; we alternate dates with our colleagues and friends Nicola & Jason.  [Here's me talking about it](https://youtu.be/QSugkKFG67s "KMD'C interview") with Kenny Mammarella-D'Cruz (aka "The Man Whisperer")
+[Click here for tickets](https://buytickets.at/bethanevans) for events with me & Ed; we alternate dates with our colleagues and friends Nicola & Jason.  And [there's a video here](https://youtu.be/QSugkKFG67s "KMD'C interview") about it, with Kenny Mammarella-D'Cruz (aka "The Man Whisperer")
 
 * _Feeling starved of meaningful contact...?_
 * _Just starting to feel ready to date again....?_
