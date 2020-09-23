@@ -8,10 +8,10 @@ link = "https://buytickets.at/bethanevans"
 linkName = ""
 location = "Online with me and Ed"
 [[event]]
-date = "2020-11-01T01:00:00+00:00"
+date = "2020-10-28T01:00:00+00:00"
 link = "https://www.tickettailor.com/events/nicolafoster/"
 linkName = ""
-location = "Online with Nicola & Jason - date TBC"
+location = "Online with Nicola & Jason "
 
 +++
 #### We're still bringing you "Meetings Without Masks" \~ now it's online.
