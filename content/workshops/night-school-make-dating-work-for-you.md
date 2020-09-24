@@ -3,8 +3,8 @@ date = 2020-06-05T00:00:00Z
 summary = "\nAn evening workshop for women - a relaxed, fun place to share and learn together"
 title = "Night School - Make dating work for you."
 [[event]]
-date = "2020-09-23T00:00:00+00:00"
-link = "https://www.tickettailor.com/events/bethanevans/"
+date = "2020-11-18T01:00:00+00:00"
+link = "https://www.tickettailor.com/events/nicolafoster/"
 linkName = ""
 location = "Online"
 
@@ -15,7 +15,7 @@ This is an evening workshop just for women - a relaxed, fun place to learn and s
 
 * Do you want more confidence and naturalness when dating?
 * Is internet dating a poor fit for you? (even though it looks like the only option at the moment?...)
-* Would you like a fresh look at the whole shebang?
+* Would you like a fresh look at the whole thing?
 
 Come and join me, Nicola and a group of other open-hearted women to;  
 \- explore the questions, curiosities and struggles you have in dating,
