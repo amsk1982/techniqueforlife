@@ -21,7 +21,7 @@ There is no pre-requisite for Living Tantra 1, you are of course welcome to atte
 
 **Practicalities: -**
 
-_TIMINGS:_  _START -_ Saturday 3rd October arrive between 5 - 6pm, with dinner at 6pm.  First session begins at 7.30pm     _FINISH -_ Saturday 10th October 3pm
+_TIMINGS:_  _START -_ Saturday 20th February arrive between 5 - 6pm, with dinner at 6pm.  First session begins at 7.30pm     _FINISH -_ Saturday 27th February 3pm
 
 _VENUE:_ [Eden Rise](http://www.edenrise.org/), a beautiful retreat centre near to Totnes in South Devon.  Direct train connection to London, journey time under 3 hours.
 
@@ -29,7 +29,9 @@ _ACCOMMODATION_ in standard dormitories (4 - 6 beds) with possibilities for camp
 
 _PRICES_
 
-£785 Standard price (dormitory accommodation)
+£785 Full price (standard accommodation)
+
+£695 Early bird (until 7th January 2021)
 
 [Click here](https://www.edrooke.com/booking-lt1) to book, or feel free to contact me with any questions.
 
