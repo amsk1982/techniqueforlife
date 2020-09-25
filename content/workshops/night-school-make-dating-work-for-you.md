@@ -11,7 +11,7 @@ location = "Online"
 +++
 ##### **'Night school'** for women **-** _make dating work for you_
 
-This is an evening workshop just for women - a relaxed, fun place to learn and share together, which I lead with my dear friend and colleague Nicola Foster
+This is an evening workshop just for women - a relaxed, fun place to learn and share together, which I lead with my dear friend and colleague Nicola Foster.
 
 * Do you want more confidence and naturalness when dating?
 * Is internet dating a poor fit for you? (even though it looks like the only option at the moment?...)
