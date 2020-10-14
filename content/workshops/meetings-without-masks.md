@@ -4,7 +4,7 @@ draft = true
 summary = "A gender balanced workshop for single people "
 title = "Meetings Without Masks in person"
 [[event]]
-date = "2020-11-29T13:00:00+00:00"
+date = "2021-04-17T12:00:00+00:00"
 link = ""
 location = "Central Bristol"
 
