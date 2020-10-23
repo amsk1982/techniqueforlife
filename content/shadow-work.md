@@ -19,6 +19,6 @@ When things in life seem to be stuck, or the same pattern is showing up over and
 
 For more information about ShadowWork, see the European ShadowWork website -  [http://shadowwork.eu/](http://shadowwork.eu/ "European ShadowWork website")
 
-Contact me for a free call if you'd like to discuss how you might benefit.  Contact me for a free call if you'd like to discuss how you might benefit:   [Bethan@TechniqueForLife.com](mailto:Bethan@techniqueforlife.com) / 07515 482 426
+Contact me for a free call if you'd like to explore how you might benefit:   [Bethan@TechniqueForLife.com](mailto:Bethan@techniqueforlife.com) / 07515 482 426
 
 ![](/uploads/bethanevansoutdoorsml.jpg)
