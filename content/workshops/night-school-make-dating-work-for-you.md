@@ -3,8 +3,8 @@ date = 2020-06-05T00:00:00Z
 summary = "\nAn evening workshop for women - a relaxed, fun place to share and learn together"
 title = "Night School - Make dating work for you."
 [[event]]
-date = "2020-11-18T01:00:00+00:00"
-link = "https://www.tickettailor.com/events/nicolafoster/"
+date = "2021-01-27T01:00:00+00:00"
+link = "https://www.tickettailor.com/events/bethanevans/"
 linkName = ""
 location = "Online"
 
