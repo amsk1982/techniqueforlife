@@ -6,7 +6,7 @@ title = "Strength Within - Women's Retreat"
 date = "2021-03-05T01:00:00+00:00"
 link = "https://www.thecipproject.com/event-details-registration/strength-within-womens-retreat"
 linkName = ""
-location = "South Devon"
+location = "5th - 7th March 2021, South Devon"
 
 +++
 # Strength Within
