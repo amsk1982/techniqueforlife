@@ -10,16 +10,18 @@ linkName = ""
 location = "South Devon"
 
 +++
-# Strength Within 
+# Strength Within
 
 ### - a residential workshop for women
 
-##### Friday 5th March, 5pm - Sunday 7th March (4pm) 
+##### Friday 5th March, 5pm - Sunday 7th March (4pm)
 
-A weekend retreat for women. Explore different sides of yourself so you can accept and understand yourself more deeply and know your inner strength in order to move forward in your life. 
+![](/uploads/karl-magnuson-mvxmvpo3s1m-unsplash.jpg)
+
+A weekend retreat for women. Explore different sides of yourself so you can accept and understand yourself more deeply and know your inner strength in order to move forward in your life.
 
 The weekend will involve time as a whole group interspersed with smaller group and individual activities, and includes process work, quiet time on the land and guided meditation.
 
-I will be running this retreat with my colleague Melanie Ward.  
+I will be running this retreat with my colleague Melanie Ward.
 
-Do 
+Do
