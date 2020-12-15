@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 summary = "A residential workshop for women in the beautiful Devon countryside"
 title = "Strength Within - Women's Retreat"
 [[event]]
@@ -24,4 +23,4 @@ The weekend will involve time as a whole group interspersed with smaller group a
 
 I will be running this retreat with my colleague Melanie Ward.
 
-Do
+Do get in contact for more information: _07515 482 426_, [_Bethan@TechniqueForLife.com_](mailto:bethan@techniqueforlife.com)
