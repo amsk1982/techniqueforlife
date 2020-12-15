@@ -15,7 +15,9 @@ location = "South Devon"
 
 ##### Friday 5th March, 5pm - Sunday 7th March (4pm)
 
-![](/uploads/karl-magnuson-mvxmvpo3s1m-unsplash.jpg)
+[Click here](https://www.thecipproject.com/event-details-registration/strength-within-womens-retreat) to book
+
+![](/uploads/karl-magnuson-strength-within.jpg)
 
 A weekend retreat for women. Explore different sides of yourself so you can accept and understand yourself more deeply and know your inner strength in order to move forward in your life.
 
