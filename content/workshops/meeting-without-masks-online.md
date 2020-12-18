@@ -1,7 +1,7 @@
 +++
 date = 2020-06-04T23:00:00Z
 summary = "A fun evening workshop for people who are available for dating and possible relationship"
-title = "Meeting Without Masks Online"
+title = "Meetings Without Masks Online"
 [[event]]
 date = "2021-01-12T01:00:00+00:00"
 link = "https://www.tickettailor.com/events/nicolafoster/"
