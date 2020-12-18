@@ -1,5 +1,6 @@
 +++
 date = 2020-06-05T00:00:00Z
+draft = true
 summary = "\nAn evening workshop for women - a relaxed, fun place to share and learn together"
 title = "Night School - Make dating work for you."
 [[event]]
