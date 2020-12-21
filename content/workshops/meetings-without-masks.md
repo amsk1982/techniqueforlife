@@ -6,6 +6,9 @@ title = "Meetings Without Masks in person"
 date = "2021-04-17T12:00:00+00:00"
 link = ""
 location = "Central Bristol"
+[[event]]
+date = "2021-05-23T09:00:00+00:00"
+location = "Belgravia, London"
 
 +++
 #### Meetings Without Masks (the original!)
