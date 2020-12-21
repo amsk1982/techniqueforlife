@@ -1,6 +1,5 @@
 +++
 date = 2019-05-05T09:58:10Z
-draft = true
 summary = "A gender balanced workshop for single people "
 title = "Meetings Without Masks in person"
 [[event]]
