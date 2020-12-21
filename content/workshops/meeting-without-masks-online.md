@@ -1,5 +1,6 @@
 +++
 date = 2020-06-04T23:00:00Z
+draft = true
 summary = "A fun evening workshop for people who are available for dating and possible relationship"
 title = "Meetings Without Masks Online"
 [[event]]
