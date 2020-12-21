@@ -3,8 +3,6 @@ date = 2019-05-04T21:04:03Z
 title = "Homepage"
 
 +++
-_MEETINGS WITHOUT MASKS IS ON THE 'WORKSHOPS' PAGE_
-
 ##### _Contact: 07515 482 426_, [_Bethan@TechniqueForLife.com_](mailto:bethan@techniqueforlife.com) _or_
 
 [_click here_](http://eepurl.com/gIC8Xz) _to sign up for occasional news emails_
@@ -23,7 +21,7 @@ She continues to study with Jan Day and with Joanna Watters ("Supporting a radic
 
 ![](/uploads/be2020.04.22sml.jpg)
 
-![](/uploads/bethanevansoutdoorsml.jpg)    
+![](/uploads/bethanevansoutdoorsml.jpg)
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
