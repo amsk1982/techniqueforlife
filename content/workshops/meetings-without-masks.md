@@ -1,7 +1,7 @@
 +++
 date = 2019-05-05T09:58:10Z
 summary = "A gender balanced workshop for single people "
-title = "Meetings Without Masks in person"
+title = "Meetings Without Masks "
 [[event]]
 date = "2021-04-17T12:00:00+00:00"
 link = ""
@@ -13,9 +13,7 @@ location = "Belgravia, London"
 +++
 #### Meetings Without Masks (the original!)
 
-_We're really hoping to be back running this wonderful day workshop IN PERSON again soon.  Yes - without masks! - so we'll wait until that is possible within the regulations._  
-
-_To start off with we'll be taking reservations, feel free to_ [_contact me_](mailto:bethan@techniqueforlife.com) _if you'd like to know how._
+_Meetings Without Masks Online is undergoing a transformation - watch this space!  Or sign up_ [_here_](http://eepurl.com/gIC8Xz) _to be kept informed._
 
 * Are you looking for love, connection, intimacy and relationship?
 * Are you finding it hard to meet the right person?
