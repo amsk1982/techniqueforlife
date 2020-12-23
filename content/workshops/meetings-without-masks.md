@@ -13,7 +13,7 @@ location = "Belgravia, London"
 +++
 #### Meetings Without Masks (the original!)
 
-_Meetings Without Masks Online is undergoing a transformation - watch this space!  Or_ [_sign up_](http://eepurl.com/gIC8Xz) _to be kept informed._
+_Meetings Without Masks Online is undergoing a transformation - watch this space!_  [_Sign up_](http://eepurl.com/gIC8Xz) _to be kept informed and / or email to reserve a place_
 
 * Are you looking for love, connection, intimacy and relationship?
 * Are you finding it hard to meet the right person?
