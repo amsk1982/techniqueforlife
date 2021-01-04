@@ -37,4 +37,4 @@ Two-together ticket:  _Book together and share a £50 discount - buy two standar
 
 > _"Fantastic leaders Ed & Bethan making it a safe, calm environment for 'Personal Development'. I came away feeling relaxed & refreshed and my perspective of relationships changed."_
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/YT15tk06Agw](https://www.youtube.com/embed/YT15tk06Agw "https://www.youtube.com/embed/YT15tk06Agw")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="[https://www.youtube-nocookie.com/embed/YT15tk06Agw](https://www.youtube-nocookie.com/embed/YT15tk06Agw "https://www.youtube-nocookie.com/embed/YT15tk06Agw")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
