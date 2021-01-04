@@ -39,4 +39,4 @@ Two-together ticket:  _Book together and share a £50 discount - buy two standar
 
 [watch?v=YT15tk06Agw](https://www.youtube.com/watch?v=YT15tk06Agw "watch?v=YT15tk06Agw")
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/6p7SY6AZtW4](https://www.youtube.com/embed/6p7SY6AZtW4 "https://www.youtube.com/embed/6p7SY6AZtW4")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="[https://youtu.be/YT15tk06Agw](https://youtu.be/YT15tk06Agw "https://youtu.be/YT15tk06Agw")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
