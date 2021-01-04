@@ -47,10 +47,12 @@ _“A beautifully held space for connections to emerge. Simple exercises which b
 
 <div>Whether you meet your soul mate or not, it is a great opportunity to enjoy, and maybe risk, being a little (or a lot!) more intimate and human and alive.</div>
 
-Meet the team:-
+**Meet the team:-**
 
 Here's a link to [Ed's website](https://www.edrooke.com/); I run various workshops with Ed, both online and in person.
 
-[Nicola](https://nicolafostercoaching.com/) & Jason (a couple) are dear friends and colleagues of ours. who also run Meetings Without Masks in London and online.
+[Nicola](https://nicolafostercoaching.com/) & Jason (a couple) are dear friends and colleagues of ours who also run Meetings Without Masks in London and online.
 
 And of course there's the woman who devised the original workshop: [Jan Day](http://janday.com/) and her husband Frieder Fischer
+
+<iframe width="560" height="315" src="[https://www.youtube-nocookie.com/embed/JqrdhkMdoQU](https://www.youtube-nocookie.com/embed/JqrdhkMdoQU "https://www.youtube-nocookie.com/embed/JqrdhkMdoQU")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
