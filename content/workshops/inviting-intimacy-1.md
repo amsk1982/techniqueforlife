@@ -6,7 +6,7 @@ title = "Inviting Intimacy"
 date = "2021-03-13T12:00:00+00:00"
 link = ""
 linkName = ""
-location = "12th - 14th March 2021, Bristol"
+location = "12th - 14th March weekend 2021, Bristol"
 
 +++
 [_Email_](mailto:bethan@techniqueforlife.com) _to book or with any questions_
