@@ -26,3 +26,5 @@ The weekend will involve time as a whole group interspersed with smaller group a
 I will be running this retreat with my colleague Melanie Ward.
 
 Do get in contact for more information: _07515 482 426_, [_Bethan@TechniqueForLife.com_](mailto:bethan@techniqueforlife.com)
+
+_Gratitude to Karl Magnuson for the image (unsplash.com)_
