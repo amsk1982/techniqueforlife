@@ -1,6 +1,6 @@
 +++
-date = ""
-summary = ""
+date = 2021-01-17T00:00:00Z
+summary = "A free evening workshop for all"
 title = "Exploring Intimacy"
 [[event]]
 date = "2021-02-17T01:00:00+00:00"
