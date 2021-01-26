@@ -7,7 +7,7 @@ title = "Deepening Intimacy"
 date = "2021-06-25T00:00:00+00:00"
 link = ""
 linkName = ""
-location = "Residential weekend 25th - 27th June at the Eden Rise Centre, South Devon"
+location = "Residential weekend 25th - 27th June in South Devon"
 
 +++
 [_Email_](mailto:bethan@techniqueforlife.com) _to book or with any questions_
