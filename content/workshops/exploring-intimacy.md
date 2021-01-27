@@ -11,7 +11,7 @@ location = "Online"
 +++
 Join us for an evening exploring intimacy - yes, online, it really is possible!
 
-This will be an interactive evening, open to everyone over 18 years old regardless of gender, sexuality, race, relationship status.
+This will be an interactive evening led by me and Ed, open to everyone over 18 years old regardless of gender, sexuality, race, relationship status.
 
 Just sign up to receive occasional newsletters and marketing emails from Bethan Evans and from Ed Rooke to [get your free ticket here.](https://buytickets.at/bethanevans/474679)
 
