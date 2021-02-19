@@ -13,7 +13,11 @@ location = "Belgravia, London"
 +++
 #### Meetings Without Masks (the original!)
 
-_Meetings Without Masks Online is undergoing a transformation - watch this space!_  [_Sign up_](http://eepurl.com/gIC8Xz) _to be kept informed and / or email to reserve a place_
+_Meetings Without Masks Online is undergoing a transformation - watch this space!_  And [_sign up_](http://eepurl.com/gIC8Xz) _to be kept informed._
+
+**Due to changing rules, we will be issuing tickets for Meetings Without Masks shortly before the dates, when we are sure we can run them.**  
+
+**Please** [**email me**](mailto:bethan@techniqueforlife.com) **to reserve a place in the meantime.**
 
 * Are you looking for love, connection, intimacy and relationship?
 * Are you finding it hard to meet the right person?
