@@ -3,15 +3,15 @@ date = ""
 summary = "A weekend to explore and deepen your relationship with yourself and others - all welcome"
 title = "Inviting Intimacy"
 [[event]]
-date = "2021-03-13T12:00:00+00:00"
+date = "2021-06-26T12:00:00+00:00"
 link = ""
 linkName = ""
-location = "12th - 14th March weekend 2021, Bristol"
+location = "25th - 27th June weekend, Bristol"
 
 +++
 [_Email_](mailto:bethan@techniqueforlife.com) _to book or with any questions_
 
-**Friday 12th March (evening) to Sunday 14th March 2021**
+**Friday 25th June (evening) to Sunday 27th June 2021**
 
 To be intimate with others we must first become intimate with ourselves; to listen closely to our inner world on all levels and to welcome what we find. When we become familiar and comfortable with our feelings, thoughts and emotions we can bring the whole of ourselves into our relating with others - even the bits that we feel awkward about. This is what builds true intimacy: Having the courage & honesty to show our wants & needs, to voice our true “yes” and “no”, so that we can enter into connection with trust and acceptance of both ourselves and the other.
 
