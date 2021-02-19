@@ -7,6 +7,11 @@ date = "2021-03-03T01:00:00+00:00"
 link = "https://buytickets.at/bethanevans/485702"
 linkName = ""
 location = "Online"
+[[event]]
+date = "2021-03-17T01:00:00+00:00"
+link = "https://buytickets.at/bethanevans/486266"
+linkName = ""
+location = "Online"
 
 +++
 ![](/uploads/release-realign-7.png)
