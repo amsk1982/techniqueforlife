@@ -2,7 +2,7 @@
 date = ""
 event = []
 summary = "One-to-one coaching"
-title = "ShadowWork coaching & Wholeness coaching "
+title = "ShadowWork coaching  "
 
 +++
 #### _Available online - Bethan@TechniqueForLife.com, 07 515 482 426_
