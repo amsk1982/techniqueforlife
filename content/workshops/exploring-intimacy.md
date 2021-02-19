@@ -7,11 +7,6 @@ date = "2021-03-10T01:00:00+00:00"
 link = "https://buytickets.at/bethanevans/484611"
 linkName = ""
 location = "Online"
-[[event]]
-date = "2021-02-17T01:00:00+00:00"
-link = "https://buytickets.at/bethanevans/474679"
-linkName = ""
-location = "Online"
 
 +++
 Join us for an evening exploring intimacy - yes, online, it really is possible!
