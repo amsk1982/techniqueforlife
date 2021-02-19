@@ -9,8 +9,6 @@ linkName = ""
 location = "25th - 27th June weekend, Bristol"
 
 +++
-[_Email_](mailto:bethan@techniqueforlife.com) _to book or with any questions_
-
 **Friday 25th June (evening) to Sunday 27th June 2021**
 
 To be intimate with others we must first become intimate with ourselves; to listen closely to our inner world on all levels and to welcome what we find. When we become familiar and comfortable with our feelings, thoughts and emotions we can bring the whole of ourselves into our relating with others - even the bits that we feel awkward about. This is what builds true intimacy: Having the courage & honesty to show our wants & needs, to voice our true “yes” and “no”, so that we can enter into connection with trust and acceptance of both ourselves and the other.
@@ -32,6 +30,8 @@ Sunday 14th March 10.30am - 4.00pm
 Full weekend ticket £150
 
 Two-together ticket:  _Book together and share a £50 discount - buy two standard price full weekend tickets at the same time to pay only £250 for two people_
+
+[Reserve your place](https://buytickets.at/bethanevans/476447) - tickets will go on sale nearer the time.
 
 ![](/uploads/imagentitleforweb.png)
 
