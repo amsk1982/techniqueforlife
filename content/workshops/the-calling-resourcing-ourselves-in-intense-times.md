@@ -30,4 +30,6 @@ These circles of women are a time for you to connect with yourself, drop into yo
 
 We will create the space, guide you in body-focused practices, and hold the circle for you to share.
 
+We will invite you to book it in your calendar for **6.50pm** so you have time to log in, set yourself up in a **private space** and gather what you need (maybe blankets, heating, a drink of water or tea) so you can be **warm & comfortable.**
+
 [Melanie](https://www.melanieward.co.uk/about-melanie) and I have known each other for many years, having met through our training as Shadow Work coaches.  We are in the same women's circle and have both completed the Women In Power programme.  We bring our sensitivity, compassion and acceptance as well as our many years of experience in Shadow Work, intimacy & relating 'work' and hands-on (Alexander Technique in my case, and Melanie is a shiatsu practitioner)
