@@ -1,7 +1,7 @@
 +++
 date = ""
 summary = "Body-focused self-care circles for women"
-title = "The Calling: Resourcing Ourselves in Intense Times"
+title = "The Calling: Resourcing in Intense Times"
 [[event]]
 date = "2021-03-03T01:00:00+00:00"
 link = "https://buytickets.at/bethanevans/485702"
@@ -9,7 +9,7 @@ linkName = ""
 location = "Online"
 [[event]]
 date = "2021-03-17T01:00:00+00:00"
-link = "https://buytickets.at/bethanevans/486266"
+link = "https://app.acuityscheduling.com/schedule.php?owner=21058261&appointmentType=20707406"
 linkName = ""
 location = "Online"
 
@@ -22,8 +22,12 @@ location = "Online"
 
 \~ Are you feeling frayed?... frustration?... boredom?...  grieving?...  feeling a lot?... feeling numb?  Bring it all.
 
-Come and join me and my dear friend and colleague Melanie Ward
+Come and join me with my friend & colleague Melanie Ward as we hold these circles for women to drop, to share, to just BE.  Evenings of resourcing & nourishment, time just for you.
 
-as we hold the circles for women to drop, to share, to just BE.  Evenings of resourcing & nourishment, time just for you.
+_COME just as you are, COME home to yourself, COME because you deserve it._
 
-[Melanie](https://www.melanieward.co.uk/about-melanie) and I have known each other for years -we are in a shared women's circle and have both completed the Women In Power programme.  We bring our sensitivity, compassion and acceptance as well as our many years of experience in Shadow Work, intimacy & relating 'work' and hands-on (Alexander Technique in my case, and Melanie is a shiatsu practitioner)
+These circles of women are a time for you to connect with yourself, drop into your body, and feel the support of community. 
+
+We will create the space, guide you in body-focused practices, and hold the circle for you to share.
+
+[Melanie](https://www.melanieward.co.uk/about-melanie) and I have known each other for many years, having met through our training as Shadow Work coaches.  We are in the same women's circle and have both completed the Women In Power programme.  We bring our sensitivity, compassion and acceptance as well as our many years of experience in Shadow Work, intimacy & relating 'work' and hands-on (Alexander Technique in my case, and Melanie is a shiatsu practitioner)
