@@ -12,6 +12,11 @@ date = "2021-03-24T01:00:00+00:00"
 link = "https://app.acuityscheduling.com/schedule.php?owner=21058261&appointmentType=20707406"
 linkName = ""
 location = "Online"
+[[event]]
+date = "2021-04-07T00:00:00+00:00"
+link = "https://app.acuityscheduling.com/schedule.php?owner=21058261&appointmentType=20707406"
+linkName = ""
+location = "Online"
 
 +++
 ![](/uploads/release-realign-7.png)
