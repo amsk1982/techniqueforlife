@@ -31,7 +31,7 @@ _PRICES_
 
 £785 Full price (standard accommodation)
 
-£695 Early bird (until 7th January 2021)
+£695 Early bird (until 1st August 2021)
 
 [Click here](https://www.edrooke.com/booking-lt1) to book, or feel free to contact me with any questions.
 
