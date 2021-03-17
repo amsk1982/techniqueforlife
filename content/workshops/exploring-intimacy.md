@@ -3,10 +3,10 @@ date = 2021-01-17T00:00:00Z
 summary = "Free evening workshops for all"
 title = "Exploring Intimacy"
 [[event]]
-date = "2021-03-10T01:00:00+00:00"
-link = "https://buytickets.at/bethanevans/484611"
+date = ""
+link = ""
 linkName = ""
-location = "Online"
+location = "Online, next date tbc"
 
 +++
 Join us for an evening exploring intimacy - yes, online, it really is possible!
