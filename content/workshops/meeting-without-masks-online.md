@@ -8,7 +8,7 @@ link = "https://www.tickettailor.com/events/nicolafoster/"
 linkName = ""
 location = "Online with Nicola & Jason "
 [[event]]
-date = "2021-02-07T01:00:00+00:00"
+date = ""
 link = "https://buytickets.at/bethanevans"
 linkName = ""
 location = "Online with me and Ed, date tbc"
