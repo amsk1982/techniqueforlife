@@ -3,17 +3,17 @@ date = ""
 summary = "A residential workshop for women in the beautiful Devon countryside"
 title = "Strength Within - Women's Retreat"
 [[event]]
-date = "2021-05-07T00:00:00+00:00"
+date = "2021-05-21T00:00:00+00:00"
 link = "https://www.thecipproject.com/event-details-registration/strength-within-womens-retreat"
 linkName = ""
-location = "7th - 9th May in Devon"
+location = "21st - 23rd May in Devon"
 
 +++
 # Strength Within
 
 ### - a residential workshop for women
 
-##### Friday 7th (eve) - Sunday 9th May
+##### Friday 21st (eve) - Sunday 23rd May
 
 [Click here](https://www.thecipproject.com/event-details-registration/strength-within-womens-retreat) to book
 
