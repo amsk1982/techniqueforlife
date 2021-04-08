@@ -3,7 +3,7 @@ date = ""
 summary = "Body-focused self-care circles for women"
 title = "The Calling: Resourcing in Intense Times"
 [[event]]
-date = "2021-03-24T01:00:00+00:00"
+date = "2021-04-14T00:00:00+00:00"
 link = "https://app.acuityscheduling.com/schedule.php?owner=21058261&appointmentType=20707406"
 linkName = ""
 location = "Online"
