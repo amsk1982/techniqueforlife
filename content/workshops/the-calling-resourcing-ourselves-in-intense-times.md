@@ -26,11 +26,15 @@ Come and join me with my friend & colleague Melanie Ward as we hold these circle
 
 _COME just as you are, COME home to yourself, COME because you deserve it._
 
-These circles of women are a time for you to connect with yourself, drop into your body, and feel the support of community. 
+These circles of women are a time for you to connect with yourself, drop into your body, and feel the support of community.
 
 We will create the space, guide you in body-focused practices, and hold the circle for you to share.
 
 We will invite you to book it in your calendar for **6.50pm** so you have time to log in, set yourself up in a **private space** and gather what you need (maybe blankets, heating, a drink of water or tea) so you can be **warm & comfortable.**
+
+> _"I deeply wanted to just be held. And that is just what I received."_
+
+> _"Thank you for creating such a gentle space to rest with absolutely no demands or expectations..."_
 
 Tickets are priced on a sliding scale:
 
