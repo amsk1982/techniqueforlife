@@ -8,7 +8,7 @@ link = "https://app.acuityscheduling.com/schedule.php?owner=21058261&appointment
 linkName = ""
 location = "Online"
 [[event]]
-date = "2021-04-07T00:00:00+00:00"
+date = "2021-04-21T00:00:00+00:00"
 link = "https://app.acuityscheduling.com/schedule.php?owner=21058261&appointmentType=20707406"
 linkName = ""
 location = "Online"
