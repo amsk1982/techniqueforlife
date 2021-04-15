@@ -21,11 +21,11 @@ The weekend is suitable for all - single people and couples - you are all welcom
 
 Timings: -
 
-Friday 12th March 7.00 - 10.00pm
+Friday 25th June 7.00 - 10.00pm
 
-Saturday 13th March  10.30am - 9.30pm
+Saturday 26th June  10.30am - 9.30pm
 
-Sunday 14th March 10.30am - 4.00pm
+Sunday 27th June 10.30am - 4.00pm
 
 Full weekend ticket £150
 
