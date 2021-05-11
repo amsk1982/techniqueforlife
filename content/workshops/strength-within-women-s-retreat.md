@@ -1,5 +1,6 @@
 +++
 date = ""
+draft = true
 summary = "A residential workshop for women in the beautiful Devon countryside"
 title = "Strength Within - Women's Retreat"
 [[event]]
