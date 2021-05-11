@@ -1,5 +1,6 @@
 +++
 date = ""
+draft = true
 summary = "Body-focused self-care circles for women"
 title = "The Calling: Resourcing in Intense Times"
 [[event]]
