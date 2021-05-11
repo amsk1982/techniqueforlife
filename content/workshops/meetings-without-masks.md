@@ -13,9 +13,7 @@ location = "Central Bristol"
 +++
 #### Meetings Without Masks (the original!)
 
-_Meetings Without Masks Online is undergoing a transformation - watch this space!_  And [_sign up_](http://eepurl.com/gIC8Xz) _to be kept informed._
-
-**Due to changing rules, we will be issuing tickets for Meetings Without Masks shortly before the dates, when we are sure we can run them.**  
+**Due to changing COVID guidelines, we will be issuing tickets for Meetings Without Masks shortly before the dates, when we are sure we can run them.**
 
 **Please** [**email me**](mailto:bethan@techniqueforlife.com) **to reserve a place in the meantime.**
 
