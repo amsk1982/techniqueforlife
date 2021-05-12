@@ -9,9 +9,9 @@ linkName = "Introduction to Living Tantra"
 location = "Bristol"
 
 +++
-**_Sadly the June day is postponed due to current Coronavirus rules_**
+**_We're back in person!_** 
 
-_Please feel free to_ [_email me_](mailto:bethan@techniqueforlife.com) _and / or_ [_sign up_](http://eepurl.com/gIC8Xz) _for newsletters to be kept informed about new dates._
+_Please_ [_email me_](mailto:bethan@techniqueforlife.com) _to put your name down for 11th September_
 
 This introductory day invites you to say hello to and welcome all that you feel as man or woman in this physical body. It is a gentle and playful introduction into the realm of Living Tantra: into being alive in your feelings, including feeling your natural desires, exploring your boundaries and learning to voice them, expressing your wants and needs, learning to ask for what you want, discovering different types of touch and loving yourself more fully. You are welcome to come on your own or with a partner.
 
