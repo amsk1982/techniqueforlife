@@ -25,6 +25,8 @@ I believe we all want to feel whole and when we don't, we find life difficult - 
 
 See me as your personal cheerleader, walking beside you as you move forwards, ready to lend a hand when needed or help you shine a light into dark corners of yourself, always on your side.
 
+> _"Coaching calls with Bethan really helped me to move though some challenges and discomfort.  She is empathetic and kind enabling me to feel safe and able to share my deepest vulnerabilities without fear of judgement. And in doing so hugely fruitful gifts of insight and wisdom came both from myself and Bethan. Her ability to catalyse and reflect back important opportunities for learning, growth and a different perspective has been invaluable to me. I would really recommend working with Bethan if you have the opportunity." GR_
+
 ##### **Information:** coaching sessions
 
 **In person:**  Sessions are held near to Totnes, Devon - about 1.5 miles from Totnes [train station](https://www.nationalrail.co.uk/stations/TOT/details.html)
