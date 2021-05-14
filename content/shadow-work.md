@@ -17,6 +17,8 @@ For more information about ShadowWork, see the European ShadowWork website -  [h
 
 Contact me for a free call if you'd like to explore how you might benefit:   [Bethan@TechniqueForLife.com](mailto:Bethan@techniqueforlife.com) / 07515 482 426
 
+> _"Bethan proved to be a thoughtful and considerate coach. I would thoroughly recommend working with her."    Bella_
+
 ##### **_Wholeness_ coaching**  _available online or in person_
 
 I believe we all want to feel whole and when we don't, we find life difficult - and then some of us go searching.  I offer you support, encouragement and reflection for your process, drawing on my trainings and on years of experience of my own and others' journeys.
