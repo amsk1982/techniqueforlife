@@ -13,6 +13,8 @@ What do you want to have happen in your life?  What's in the way?
 
 Are you feeling stuck?  Is the same pattern showing up _again_?  Maybe it's because there's some aspect of you which is in shadow.  This is exactly what it sounds like - some side of ourselves which is partially or completely 'out of our sight', yet still having an effect.
 
+> "_Bethan's facilitation...was excellent.  \[She\] was professional, friendly and created a safe space for us to work....already I am understanding myself and how I react to things much more clearly."_  Geraldine  
+
 For more information about ShadowWork, see the European ShadowWork website -  [http://shadowwork.eu/](http://shadowwork.eu/ "European ShadowWork website")
 
 Contact me for a free call if you'd like to explore how you might benefit:   [Bethan@TechniqueForLife.com](mailto:Bethan@techniqueforlife.com) / 07515 482 426
