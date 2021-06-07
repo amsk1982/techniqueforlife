@@ -21,6 +21,8 @@ location = "Central Bristol"
 * Are you finding it hard to meet the right person?
 * Have you tried the Internet, speed dating or the singles scene and felt it ring a bit hollow? Are you looking for more but not quite sure how to find it?
 
+![](/uploads/mwmgreyorangewritingonly.jpg)
+
 It can be tough to make real connections in our busy lives. Pubs, clubs and the dating industry can feel like a market place.
 
 So where and how do we find and meet each other in a different way?
