@@ -11,7 +11,7 @@ link = ""
 location = "Central Bristol"
 
 +++
-#### Meetings Without Masks (the original!)
+#### Meetings Without Masks (in person!)
 
 **Due to changing COVID guidelines, we will be issuing tickets for Meetings Without Masks shortly before the dates, when we are sure we can run them.**
 
