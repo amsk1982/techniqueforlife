@@ -6,7 +6,7 @@ title = "Inviting Intimacy"
 date = "2021-06-26T12:00:00+00:00"
 link = "https://buytickets.at/bethanevans/476447"
 linkName = " "
-location = "25th - 27th June weekend, Bristol"
+location = "6th - 8th August weekend, Bristol"
 
 +++
 **Friday 6th August (evening) to Sunday 8th August 2021**
