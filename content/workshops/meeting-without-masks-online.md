@@ -1,12 +1,12 @@
 +++
 date = 2020-06-04T23:00:00Z
 summary = "A fun evening workshop for people who are available for dating and possible relationship"
-title = "Meetings Without Masks Online - Trad and \"Open House\""
+title = "Meetings Without Masks Online - Original and \"Open House\""
 [[event]]
 date = "2021-05-25T00:00:00+00:00"
 link = "https://www.tickettailor.com/events/nicolafoster/"
 linkName = ""
-location = "Online with Nicola & Jason "
+location = "Open House with Nicola & Jason "
 [[event]]
 date = "2022-01-11T00:00:00+00:00"
 link = "https://buytickets.at/bethanevans"
@@ -20,7 +20,9 @@ location = "Online with me and Ed, date tbc"
 
 * _Feeling starved of meaningful contact...?_
 * _Just starting to feel ready to date again, or to think about it....?_
-* _Daunted because it looks like there may not be many opportunities to meet new people for a while?_
+* _Daunted by dating apps...?_
+
+![](/uploads/mwmogreyorangesmaller.jpg)  
 
 After such an extended time of limited contact our deep needs for love, support and safety are crying out to be met, now more than ever.
 
@@ -30,15 +32,13 @@ Meetings without Masks Online is a workshop that enables you to meet interesting
 
 It is based on the Meetings without Masks day workshop created by relationship expert Jan Day, which we run regularly in person!
 
-![](/uploads/mwmogreyorangesmaller.jpg)
-
 If you or someone you know would like to hear us talk a bit about it, we did a facebook live - ["What is Meetings Without Masks Online?"](https://TechniqueForLife.us1.list-manage.com/track/click?u=132947c457b186b9c745b3be4&id=c88fdc03dc&e=66a7344f19)
 
 and I had a conversation with [Kenny Mammarella-D'Cruz](https://www.kennydcruz.com/) about it - the short version is like an FAQ about Meetings Without Masks online, [you can see it here](/uploads/mwmonline-faq-interview.mp4)
 
-There's also an even-lower-pressure event now, which is _not_ a dating event, more like a practice ground - just meeting people as your authentic self, dropping the social (or dating) 'mask' a little if you want to.
-
 ![](/uploads/mwmopenhouse-ttheader.png)
+
+There's also an even-lower-pressure event now - **Open House** - which is _not_ a dating event, more like a practice ground - just meeting people as your authentic self, dropping the social (or dating) 'mask' as much as you choose to.
 
 **Meet the team**:-
 
