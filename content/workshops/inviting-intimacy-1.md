@@ -9,7 +9,7 @@ linkName = " "
 location = "25th - 27th June weekend, Bristol"
 
 +++
-**Friday 25th June (evening) to Sunday 27th June 2021**
+**Friday 6th August (evening) to Sunday 8th August 2021**
 
 To be intimate with others we must first become intimate with ourselves; to listen closely to our inner world on all levels and to welcome what we find. When we become familiar and comfortable with our feelings, thoughts and emotions we can bring the whole of ourselves into our relating with others - even the bits that we feel awkward about. This is what builds true intimacy: Having the courage & honesty to show our wants & needs, to voice our true “yes” and “no”, so that we can enter into connection with trust and acceptance of both ourselves and the other.
 
@@ -21,11 +21,11 @@ The weekend is suitable for all - single people and couples - you are all welcom
 
 Timings: -
 
-Friday 25th June 7.00 - 10.00pm
+Friday 6th August 7.00 - 10.00pm
 
-Saturday 26th June  10.30am - 9.30pm
+Saturday 7th August  10.30am - 9.30pm
 
-Sunday 27th June 10.30am - 4.00pm
+Sunday 8th August 10.30am - 4.00pm
 
 Full weekend ticket £150
 
