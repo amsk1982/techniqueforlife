@@ -6,7 +6,7 @@ title = "Meetings Without Masks Online - Original and \"Open House\""
 date = "2021-06-22T00:00:00+00:00"
 link = "https://www.tickettailor.com/events/nicolafoster/"
 linkName = ""
-location = "Open House with Nicola & Jason "
+location = "Open House ~ Nicola & Jason "
 [[event]]
 date = "2022-01-11T00:00:00+00:00"
 link = "https://buytickets.at/bethanevans"
