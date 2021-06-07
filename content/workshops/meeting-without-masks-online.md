@@ -11,7 +11,7 @@ location = "Open House ~ Nicola & Jason "
 date = "2022-01-11T00:00:00+00:00"
 link = "https://buytickets.at/bethanevans"
 linkName = ""
-location = "Open House with me and Ed, date tbc"
+location = "Open House ~ me and Ed, date tbc"
 
 +++
 #### "Meetings Without Masks" \~ new formats!
