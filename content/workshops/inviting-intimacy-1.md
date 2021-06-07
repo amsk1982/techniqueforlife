@@ -3,7 +3,7 @@ date = ""
 summary = "A weekend to explore and deepen your relationship with yourself and others - all welcome"
 title = "Inviting Intimacy"
 [[event]]
-date = "2021-08-06T12:00:00+00:00"
+date = "2021-08-07T12:00:00+00:00"
 link = "https://buytickets.at/bethanevans/476447"
 linkName = " "
 location = "6th - 8th August weekend, Bristol"
