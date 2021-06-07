@@ -3,7 +3,7 @@ date = 2020-06-04T23:00:00Z
 summary = "A fun evening workshop for people who are available for dating and possible relationship"
 title = "Meetings Without Masks Online - Original and \"Open House\""
 [[event]]
-date = "2021-05-25T00:00:00+00:00"
+date = "2021-06-22T00:00:00+00:00"
 link = "https://www.tickettailor.com/events/nicolafoster/"
 linkName = ""
 location = "Open House with Nicola & Jason "
