@@ -46,4 +46,4 @@ Here's a link to [Ed's website](https://www.edrooke.com/); I run 'Meetings' with
 
 As do [Nicola](https://nicolafostercoaching.com/) & Jason - a couple who are dear friends and colleagues of ours.
 
-And of course there's the woman who devised the original workshop: [Jan Day](http://janday.com/) and her husband Frieder Fischer
+And of course there's [Jan Day](http://janday.com/) who devised the original workshop and runs them with her husband Frieder Fischer
