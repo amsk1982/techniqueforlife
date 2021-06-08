@@ -1,6 +1,6 @@
 +++
 date = 2020-04-03T00:00:00Z
-summary = "Living Tantra is for people who want to experience richer relationships, deeper intimacy and more authentic connection with others."
+summary = "A week-long retreat to dive into explorating connection - with yourself and with others"
 title = "Living Tantra 1"
 [[event]]
 date = "2021-10-15T00:00:00+00:00"
