@@ -6,7 +6,7 @@ title = "Emergence: From Restriction To Renewal"
 date = "2021-07-02T00:00:00+00:00"
 link = "https://www.eventbrite.co.uk/e/emergence-transitioning-from-restriction-to-renewal-tickets-157784635091"
 linkName = ""
-location = "'The Hearth', South Devon"
+location = "'The Hearth', South Devon 2nd - 4th July"
 
 +++
 #### Emergence \~ Transitioning from Restriction to Renewal
