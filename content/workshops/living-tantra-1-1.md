@@ -45,7 +45,7 @@ The aim of Living Tantra is to give you a space where you can learn and grow int
 
 The Living Tantra series of workshops can either be taken individually or as part of an extended training course of personal growth. The benefits you can get from this workshop are:
 
-* A sense of ease in your male/female body
+* A sense of ease in your body
 * Increased self-confidence
 * Renewed vitality
 * A way of growing and healing your sexuality
