@@ -31,9 +31,7 @@ Full weekend ticket £150
 
 Two-together ticket:  _Book together and share a £50 discount - buy two standard price full weekend tickets at the same time to pay only £250 for two people_
 
-[Reserve your place](https://buytickets.at/bethanevans/476447) - tickets will go on sale nearer the time.
-
-![](/uploads/imagentitleforweb.png)
+![](/uploads/inviting-intimacy-image-sml.jpg)
 
 > _"Fantastic leaders Ed & Bethan making it a safe, calm environment for 'Personal Development'. I came away feeling relaxed & refreshed and my perspective of relationships changed."_
 
