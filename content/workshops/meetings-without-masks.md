@@ -3,8 +3,8 @@ date = 2019-05-05T09:58:10Z
 summary = "A gender balanced workshop for single people "
 title = "Meetings Without Masks (in person!)"
 [[event]]
-date = "2021-08-01T09:00:00+00:00"
-location = "Belgravia, London: date tbc"
+date = "2022-02-20T10:00:00+00:00"
+location = "Belgravia, London"
 [[event]]
 date = "2021-11-20T13:00:00+00:00"
 link = ""
