@@ -27,11 +27,9 @@ _VENUE:_ [Eden Rise](http://www.edenrise.org/), a beautiful retreat centre near 
 
 _ACCOMMODATION_ in standard dormitories (4 - 6 beds) with possibilities for camping or upgrade to twin rooms.
 
-_PRICES_
+_PRICE_
 
-£785 Full price (standard accommodation)
-
-£695 Early bird (until 1st August 2021)
+£785 (standard accommodation)
 
 [Click here](https://www.edrooke.com/booking-lt1) to book, or feel free to contact me with any questions.
 

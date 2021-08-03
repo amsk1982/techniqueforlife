@@ -1,5 +1,6 @@
 +++
 date = 2021-06-06T23:00:00Z
+draft = true
 summary = "Nature Immersion & Connection with like-minded souls, fantastic facilitators and a guided programme that will leave you refreshed & renewed"
 title = "Emergence: From Restriction To Renewal"
 [[event]]
