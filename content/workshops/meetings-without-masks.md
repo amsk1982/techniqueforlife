@@ -4,7 +4,7 @@ summary = "A gender balanced workshop for single people "
 title = "Meetings Without Masks (in person!)"
 [[event]]
 date = "2021-11-20T13:00:00+00:00"
-link = ""
+link = "https://buytickets.at/bethanevans/386148"
 location = "Central Bristol"
 [[event]]
 date = "2022-02-20T10:00:00+00:00"
@@ -12,10 +12,6 @@ location = "Belgravia, London"
 
 +++
 #### Meetings Without Masks (in person!)
-
-**Due to changing COVID guidelines, we will be issuing tickets for Meetings Without Masks shortly before the dates, when we are sure we can run them.**
-
-**Please** [**email me**](mailto:bethan@techniqueforlife.com) **to reserve a place in the meantime.**
 
 * Are you looking for love, connection, intimacy and relationship?
 * Are you finding it hard to meet the right person?
