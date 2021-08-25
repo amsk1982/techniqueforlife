@@ -5,7 +5,7 @@ title = "Meetings Without Masks (in person!)"
 [[event]]
 date = "2021-11-20T13:00:00+00:00"
 link = "https://buytickets.at/bethanevans/386148"
-location = "Central Bristol"
+location = "Bristol"
 [[event]]
 date = "2022-02-20T10:00:00+00:00"
 location = "Belgravia, London"
