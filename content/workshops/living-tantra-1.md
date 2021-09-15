@@ -3,9 +3,9 @@ date = 2019-05-05T09:17:15Z
 summary = "Living Tantra is for people who want to experience richer relationships, deeper intimacy and more authentic connection with others."
 title = "Introduction to Living Tantra"
 [[event]]
-date = "2021-09-11T00:00:00+00:00"
-link = "https://buytickets.at/bethanevans/524864"
-linkName = "https://buytickets.at/bethanevans/524864"
+date = "2022-02-12T01:00:00+00:00"
+link = "https://www.tickettailor.com/events/bethanevans"
+linkName = ""
 location = "Bristol"
 
 +++
