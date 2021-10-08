@@ -13,7 +13,7 @@ What do you want to have happen in your life?  What's in the way?
 
 Are you feeling stuck?  Is the same pattern showing up _again_?  Maybe it's because there's some aspect of you which is in shadow.  This is exactly what it sounds like - some side of ourselves which is partially or completely 'out of our sight', yet still having an effect.
 
-> "_Bethan's facilitation...was excellent.  \[She\] was professional, friendly and created a safe space for us to work....already I am understanding myself and how I react to things much more clearly."_  Geraldine  
+> "_Bethan's facilitation...was excellent.  \[She\] was professional, friendly and created a safe space for us to work....already I am understanding myself and how I react to things much more clearly."_  Geraldine
 
 For more information about ShadowWork, see the European ShadowWork website -  [http://shadowwork.eu/](http://shadowwork.eu/ "European ShadowWork website")
 
@@ -37,7 +37,7 @@ The first session is between 3 - 5 hours, or it can be two 3-hour sessions.
 
 This may be enough if you want to work on something quite specific.   If you'd like to unravel an issue more, or to have coaching as part of your ongoing development and support, further sessions can be arranged.
 
-I work on a sliding scale hourly rate and ask you to communicate at the time of booking what you are able to pay between £40 - £95 per hour.   Packages are available when buying several sessions at a time, lowering the cost of each individual session.    Each month I offer a very limited number of sessions on an agreed-donation basis to those who are unable to to pay the minimum rate.
+I work on a sliding scale hourly rate and ask you to communicate at the time of booking what you are able to pay between £45 - £95 per hour.   Packages are available when buying several sessions at a time, lowering the cost of each individual session.    Each month I offer a very limited number of sessions on an agreed-donation basis to those who are unable to to pay the minimum rate.
 
 **Online:**  Sessions can be held on Zoom, Skype or Wire.
 
