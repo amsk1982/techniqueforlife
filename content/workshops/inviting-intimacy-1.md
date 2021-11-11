@@ -27,7 +27,7 @@ Saturday 19th March  10.30am - 9.30pm
 
 Sunday 20th March 10.30am - 4.00pm
 
-Full weekend ticket £150
+Full weekend ticket £150 
 
 Two-together ticket:  _Book together and share a £50 discount - buy two standard price full weekend tickets at the same time to pay only £250 for two people_
 
