@@ -1,18 +1,12 @@
 +++
 date = 2020-06-04T23:00:00Z
-draft = true
 summary = "A fun evening workshop "
 title = "Meetings Without Masks Online - Original and \"Open House\""
 [[event]]
-date = "2021-06-22T00:00:00+00:00"
-link = "https://www.tickettailor.com/events/nicolafoster/"
-linkName = ""
-location = "Open House ~ Nicola & Jason "
-[[event]]
-date = "2021-08-02T23:00:00+00:00"
+date = "2021-11-30T01:00:00+00:00"
 link = "https://buytickets.at/bethanevans"
 linkName = ""
-location = "Open House ~ me and Ed, date tbc"
+location = "Open House ~ Online"
 
 +++
 #### "Meetings Without Masks" \~ new formats!
