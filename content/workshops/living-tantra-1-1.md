@@ -4,9 +4,9 @@ summary = "A week-long retreat to dive into explorating connection - with yourse
 title = "Living Tantra 1"
 [[event]]
 date = "2021-10-15T00:00:00+00:00"
-link = "https://www.edrooke.com/booking-lt1"
+link = ""
 linkName = ""
-location = "15th - 22nd October 2021, Devon"
+location = "7th - 14th October 2021, Devon"
 
 +++
 [Click here](https://www.edrooke.com/booking-lt1) to book.  _Logistics information below._
