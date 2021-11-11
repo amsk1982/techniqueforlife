@@ -21,7 +21,7 @@ There is no pre-requisite for Living Tantra 1, you are of course welcome to atte
 
 **Logistics: -**
 
-_TIMINGS:_  _START -_ Saturday 20th February arrive between 5 - 6pm, with dinner at 6pm.  First session begins at 7.30pm     _FINISH -_ Saturday 27th February 3pm
+_TIMINGS:_  _START -_ Friday 7th October arrive between 5 - 6pm, with dinner at 6.30pm.  First session begins at 7.30pm     _FINISH -_ Friday 14th November 3pm
 
 _VENUE:_ [Eden Rise](http://www.edenrise.org/), a beautiful retreat centre near to Totnes in South Devon.  Direct train connection to London, journey time under 3 hours.
 
