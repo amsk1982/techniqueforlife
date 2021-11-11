@@ -11,7 +11,7 @@ location = "Open House ~ Online"
 +++
 #### "Meetings Without Masks" \~ new formats!
 
-**Open House** is _not_ a dating event, more like a practice ground - just meeting people as your authentic self, dropping the social (or dating) 'mask' as much as you choose to
+**Open House** is _not_ a dating event, more like a practice ground - just meeting people as your authentic self, dropping the social (or dating) 'mask' as much as you choose to.
 
 [Click here for tickets](https://buytickets.at/bethanevans) for events with me & Ed; we alternate dates with our colleagues and friends Nicola & Jason.  And [there's a video here](https://youtu.be/QSugkKFG67s "KMD'C interview") about it, with Kenny Mammarella-D'Cruz (aka "The Man Whisperer")
 
