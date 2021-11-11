@@ -3,10 +3,10 @@ date = 2020-04-03T00:00:00Z
 summary = "A week-long retreat to dive into explorating connection - with yourself and with others"
 title = "Living Tantra 1"
 [[event]]
-date = "2021-10-15T00:00:00+00:00"
+date = "2022-10-07T00:00:00+00:00"
 link = ""
 linkName = ""
-location = "7th - 14th October 2021, Devon"
+location = "7th - 14th October 2022, Devon"
 
 +++
 [Click here](https://www.edrooke.com/booking-lt1) to book.  _Logistics information below._
