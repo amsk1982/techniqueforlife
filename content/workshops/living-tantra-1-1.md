@@ -29,7 +29,7 @@ _ACCOMMODATION_ in standard dormitories (4 - 6 beds) with possibilities for camp
 
 _PRICE_
 
-£785 (standard accommodation)
+£875 (standard accommodation)
 
 [Click here](https://www.edrooke.com/booking-lt1) to book, or feel free to contact me with any questions.
 
