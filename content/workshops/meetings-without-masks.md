@@ -8,6 +8,7 @@ link = "https://www.tickettailor.com/events/bethanevans"
 location = "Bristol"
 [[event]]
 date = "2022-02-20T10:00:00+00:00"
+link = "https://www.eventbrite.co.uk/e/meetings-without-masks-tickets-80074074713"
 location = "Belgravia, London"
 
 +++
