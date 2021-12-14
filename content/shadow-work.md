@@ -5,7 +5,7 @@ summary = "One-to-one coaching"
 title = "ShadowWork coaching  "
 
 +++
-#### _Available online - Bethan@TechniqueForLife.com, 07 515 482 426_
+#### _Available online - Bethan@TechniqueForLife.com, 07515 482 426_
 
 ###### **FREE introductory evenings January 2022** in Totnes
 
