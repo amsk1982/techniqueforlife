@@ -7,6 +7,11 @@ date = "2022-01-11T01:00:00+00:00"
 link = ""
 linkName = ""
 location = "Ola Clinic, Totnes TQ9 5DA"
+[[event]]
+date = "2022-01-25T01:00:00+00:00"
+link = ""
+linkName = ""
+location = "Ola Clinic, Totnes TQ9 5DA"
 
 +++
 #### Free evening introduction to Shadow Work
