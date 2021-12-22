@@ -4,7 +4,7 @@ summary = "A week-long retreat to dive into explorating connection - with yourse
 title = "Living Tantra 1"
 [[event]]
 date = "2022-10-07T00:00:00+00:00"
-link = ""
+link = "https://www.edrooke.com/booking-lt1"
 linkName = ""
 location = "7th - 14th October 2022, Devon"
 
@@ -25,11 +25,15 @@ _TIMINGS:_  _START -_ Friday 7th October arrive between 5 - 6pm, with dinner at 
 
 _VENUE:_ [Eden Rise](http://www.edenrise.org/), a beautiful retreat centre near to Totnes in South Devon.  Direct train connection to London, journey time under 3 hours.
 
-_ACCOMMODATION_ in standard dormitories (4 - 6 beds) with possibilities for camping or upgrade to twin rooms.
+_ACCOMMODATION_ in standard dormitories (4 - 6 beds) with possibilities for camping or upgrade to twin rooms with extra charge.
 
-_PRICE_
+_PRICES_
 
-£875 (standard accommodation)
+£745  Super early bird price; book before 6th April '22
+
+£795  Early bird price; book before 25th August '22 
+
+£885  Usual price
 
 [Click here](https://www.edrooke.com/booking-lt1) to book, or feel free to contact me with any questions.
 
