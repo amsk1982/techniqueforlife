@@ -9,7 +9,7 @@ location = "Belgravia, London"
 [[event]]
 date = "2022-04-23T12:00:00+00:00"
 link = ""
-location = "Bristol"
+location = "Central Bristol"
 
 +++
 #### Meetings Without Masks (in person!)
@@ -37,6 +37,12 @@ _“I really enjoyed the whole day, discovering what is true for me in relations
 _“For me, this is an interactive, skilfully held event for single people rather than a dating event so there is no pressure and, probably, because of this I was relaxed and made some good connections.”_ Adrian
 
 _“This workshop has really helped me see & experience how to approach relationships in a way that will probably serve me and the other.”_ Jonathan
+
+###### PRICING:-
+
+In **Bristol** tickets are £66 / £33 (guaranteed place / standby)
+
+In **London** they are £89 / £45 (guaranteed / standby)
 
 {{% youtube id="1nJWNjniPT8" %}}
 
