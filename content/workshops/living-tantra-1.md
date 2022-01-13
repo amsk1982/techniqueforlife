@@ -6,7 +6,7 @@ title = "Introduction to Living Tantra"
 date = "2022-02-12T01:00:00+00:00"
 link = "https://www.tickettailor.com/events/bethanevans"
 linkName = ""
-location = "Bristol"
+location = "Central Bristol"
 
 +++
 **_We're back in person!_**
@@ -15,7 +15,11 @@ This introductory day invites you to say hello to and welcome all that you feel 
 
 During the day you will meet and connect with others in a safe and nourishing space where you can relax into discovering yourself and your way of connecting.
 
-##### 10.30am - 5.30pm
+Central Bristol 
+
+##### 10.30am - 5.30pm 
+
+Tickets £80
 
 Here's some feedback we've had:-
 
