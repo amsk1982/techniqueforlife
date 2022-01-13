@@ -9,7 +9,7 @@ linkName = " "
 location = "18th - 20th March weekend, Bristol"
 
 +++
-**Friday 18th March (evening) to Sunday 20th March 2021**
+**Friday 18th March (evening) to Sunday 20th March 2021** in Bristol
 
 To be intimate with others we must first become intimate with ourselves; to listen closely to our inner world on all levels and to welcome what we find. When we become familiar and comfortable with our feelings, thoughts and emotions we can bring the whole of ourselves into our relating with others - even the bits that we feel awkward about. This is what builds true intimacy: Having the courage & honesty to show our wants & needs, to voice our true “yes” and “no”, so that we can enter into connection with trust and acceptance of both ourselves and the other.
 
@@ -27,9 +27,11 @@ Saturday 19th March  10.30am - 9.30pm
 
 Sunday 20th March 10.30am - 4.00pm
 
-Full weekend ticket £150 
+Early bird ticket £150
 
-Two-together ticket:  _Book together and share a £50 discount - buy two standard price full weekend tickets at the same time to pay only £250 for two people_
+Full weekend ticket £180
+
+Two-together ticket:  _Book together and share a £40 discount - buy two standard price full weekend tickets at the same time to pay only £320 for two people_
 
 > "If you'd like to explore and deepen your inner connection and how to relate and create intimacy with others in a healthy, empowered and authentic way then I highly recommend attending this weekend with Bethan and Ed” _R, Bristol_
 
