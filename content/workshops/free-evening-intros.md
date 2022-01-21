@@ -3,16 +3,6 @@ date = ""
 summary = "Evening introductions to Shadow Work"
 title = "Free evenings"
 [[event]]
-date = "2022-01-11T01:00:00+00:00"
-link = ""
-linkName = ""
-location = "Totnes"
-[[event]]
-date = "2022-01-18T01:00:00+00:00"
-link = ""
-linkName = ""
-location = "Totnes"
-[[event]]
 date = "2022-01-25T01:00:00+00:00"
 link = ""
 linkName = ""
