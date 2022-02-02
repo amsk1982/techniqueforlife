@@ -3,26 +3,35 @@ date = ""
 summary = "Free evening introductions to Shadow Work"
 title = "Free evenings"
 [[event]]
-date = "2022-01-25T01:00:00+00:00"
+date = "2022-03-09T01:00:00+00:00"
 link = ""
 linkName = ""
 location = "Totnes"
+[[event]]
+date = "2022-03-14T01:00:00+00:00"
+link = ""
+linkName = ""
+location = "Online"
 
 +++
 #### Free evening introduction to Shadow Work
 
-Tuesday evenings 11th, 18th & 25th January,
+Wednesday 9th March in person; 7.30 - 8.30pm see below for details
 
-7\.30 - 9.00pm
+or
 
-upstairs at [Ola Clinic](http://www.totneschiropractic.co.uk/), 5a Fore Street, Totnes TQ9 5DA
+Monday 14th March online; 7.30 - 8.30pm
 
-These evenings offer an exploratory ‘toe in the water’ with no obligation - come along and find out a bit more about yourself, ask questions, meet me!
+These evenings offer an exploratory ‘toe in the water’ with no obligation - come along and find out a bit more, ask questions, meet me!
 
-Each session will stand alone; you’re welcome to attend any of them.
-
-Please arrive five minutes early (7.25pm) as the room size limits numbers.
+Each session will stand alone; you’re welcome to attend either.
 
 Feel free to contact me with any questions
 
-_Covid-19 precautions etc:_ To care for all, please only attend if you are free of coldy / covid-19 symptoms and have not been in contact in the previous 10 days with anyone who’s tested positive or is showing symptoms. You are welcome to wear a mask if you wish, however it will not be possible to maintain 1m distance from all others due to the size of the venue. **Bring warm layers, blankets** etc if you feel the cold as we will have ventilation!
+**Wednesday 9th March** 7.30 - 8.30pm upstairs at [Ola Clinic](http://www.totneschiropractic.co.uk/), 5a Fore Street, Totnes TQ9 5DA
+
+It's not necessary to book however if you'd like to reserve a place or have questions do [email me](mailto:bethan@techniqueforlife.com) or call 07515 482 426 
+
+Please arrive five minutes early (7.25pm) as the room size limits numbers.
+
+To care for all, please only attend if you are free of coldy / covid-19 symptoms and have not been in contact in the previous 10 days with anyone who’s tested positive or is showing symptoms. You are welcome to wear a mask if you wish, however it will not be possible to maintain 1m distance from everyone else due to the size of the venue. **Bring warm layers, blankets** etc if you feel the cold as we will have ventilation!
