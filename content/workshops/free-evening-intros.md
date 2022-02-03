@@ -28,7 +28,7 @@ Feel free to contact me with any questions
 
 ###### **Wednesday 9th March** 7.30 - 8.30pm upstairs at [Ola Clinic](http://www.totneschiropractic.co.uk/), 5a Fore Street, Totnes TQ9 5DA
 
-It's not necessary to book however if you'd like to reserve a place or have questions do [email me](mailto:bethan@techniqueforlife.com) or call 07515 482 426 
+If you'd like to reserve a place or have questions do [email me](mailto:bethan@techniqueforlife.com) or call 07515 482 426   Booking not required, however - you can just turn up on the evening and if there's space you'll be very welcome.
 
 Please arrive five minutes early (7.25pm) as the room size limits numbers.
 
