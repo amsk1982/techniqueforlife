@@ -42,4 +42,4 @@ To care for all, please only attend if you are free of coldy / covid-19 symptoms
 
 Please book a place (follow the link in blue) to attend online and you'll be sent the Zoom link shortly before.  Once we have begun at 7.30 it will not be possible to join, so please be sure to log on in time!
 
-I suggest you join the call where you will have privacy, if this is not going to be possible please use headphone etc to ensure that the call can't be overheard by anyone around you.
+I suggest you join the call where you will have privacy, if this is not going to be possible please use headphone etc to ensure that the call can't be overheard by anyone around you. 
