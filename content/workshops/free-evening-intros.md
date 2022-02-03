@@ -1,7 +1,7 @@
 +++
 date = ""
 summary = "Free evening introductions to Shadow Work"
-title = "Welcome Shadow"
+title = "Welcome Shadow - Embrace Your Gold"
 [[event]]
 date = "2022-03-09T01:00:00+00:00"
 link = ""
@@ -16,11 +16,7 @@ location = "Online"
 +++
 #### Free evening introduction to Shadow Work
 
-##### **"Welcome Shadow" - Embrace your gold**
-
 Wednesday 9th March in person; 7.30 - 8.30pm see below for details
-
-or
 
 Monday 14th March online; 7.30 - 8.30pm
 
