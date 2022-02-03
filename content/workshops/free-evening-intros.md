@@ -1,7 +1,7 @@
 +++
 date = ""
 summary = "Free evening introductions to Shadow Work"
-title = "Free evenings"
+title = "Welcome Shadow"
 [[event]]
 date = "2022-03-09T01:00:00+00:00"
 link = ""
