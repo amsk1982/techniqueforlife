@@ -9,7 +9,7 @@ linkName = ""
 location = "Totnes"
 [[event]]
 date = "2022-03-14T01:00:00+00:00"
-link = ""
+link = "https://buytickets.at/bethanevans/646748"
 linkName = ""
 location = "Online"
 
