@@ -16,6 +16,8 @@ location = "Online"
 +++
 #### Free evening introduction to Shadow Work
 
+**"Welcome Shadow" - Embrace your gold**
+
 Wednesday 9th March in person; 7.30 - 8.30pm see below for details
 
 or
