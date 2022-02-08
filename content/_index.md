@@ -13,6 +13,8 @@ Bethan offers **_Shadow Work_** coaching,     **_Wholeness coaching_** and Schoo
 
 to help you have that.
 
+She invites you to welcome yourself just as you are in each moment, as a starting point for opening to your fullest self.  Her aim is to create an accepting, non-judgmental space for whatever arises.
+
 ![](/uploads/bethanevansoutdoorsml.jpg)
 
 ##### About Bethan:-
