@@ -39,7 +39,7 @@ See me as your personal cheerleader, walking beside you as you move forwards, re
 
 ##### **Information:** coaching sessions
 
-**In person:**  Sessions are held near to Totnes, Devon - about 1.5 miles from Totnes [train station](https://www.nationalrail.co.uk/stations/TOT/details.html)
+**In person:**  Sessions are held in or near Totnes, Devon (which has a [train station](https://www.nationalrail.co.uk/stations/TOT/details.html))
 
 The first session is between 3 - 5 hours, or it can be two 3-hour sessions.
 
@@ -49,8 +49,10 @@ I work on a sliding scale hourly rate and ask you to communicate at the time of 
 
 **Online:**  Sessions can be held on Zoom, Skype or Wire.
 
-The first session is 1.5 hours long, subsequently they can be of a length mutually agreed, minimum 1 hour.
+The first session is split into two 'sittings', each of 1.5 hours long, subsequently they can be of a length mutually agreed, minimum 1 hour.
 
-I work on a sliding scale hourly rate and ask you to communicate at the time of booking what you are able to pay between £40 - £90 per hour.   Packages are available when buying several sessions at a time, lowering the cost of each individual session.    I offer a very limited number of sessions each month on an agreed-donation basis to those who are unable to to pay the minimum rate.
+I work on a sliding scale hourly rate and ask you to communicate at the time of booking what you are able to pay between £45 - £95 per hour.   Packages are available when buying several sessions at a time, lowering the cost of each individual session.    I offer a very limited number of sessions each month on an agreed-donation basis to those who are unable to to pay the minimum rate.
 
 ![](/uploads/bethanevansoutdoorsml.jpg)
+
+If you are based in Devon in or around Totnes, Dartington, the South Hams, Torquay & Paignton, Newton Abbot, Exeter or Plymouth it will be easy to get to an in-person Shadow Work session.  Also from Bristol, Taunton, Tiverton and many places in Cornwall which are near train stations.
