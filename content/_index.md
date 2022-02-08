@@ -7,8 +7,7 @@ title = "Homepage"
 
 [_click here_](http://eepurl.com/gIC8Xz) _to sign up for occasional news emails_
 
-Bethan offers **_Shadow Work_** coaching,     **_Wholeness coaching_**, School of Being workshops on themes of **_relating & intimacy_**,  
-and **_Alexander Technique_** for individuals and groups.
+Bethan offers **_Shadow Work_** coaching,     **_Wholeness coaching_** and School of Being **workshops** on themes of **_relating & intimacy_**.
 
 She invites you to welcome yourself exactly as you are in each moment as a starting point for opening to your full self.  Her aim is to create an accepting, non-judgmental space for whatever arises.
 
@@ -21,7 +20,7 @@ During a first career in the helping professions Bethan was drawn to Alexander T
 Over time she has trained and practiced as an Alexander Technique teacher, a Shadow Work coach and with renowned relationship expert Jan Day in her School of Being.  
 She continues to study with Jan Day and with Joanna Watters ("Supporting a radical acceptance of present moment reality")
 
-![](/uploads/be2020.04.22sml.jpg)![](/uploads/bethanevansoutdoorsml.jpg)
+![](/uploads/be2020.04.22sml.jpg)
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
