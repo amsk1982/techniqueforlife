@@ -7,19 +7,13 @@ title = "ShadowWork coaching  "
 +++
 #### _Available online - Bethan@TechniqueForLife.com, 07515 482 426_
 
-###### **FREE introductory evenings January 2022** in Totnes
+###### **FREE introductory evenings in March 2022**
 
-Tuesday evenings 11th, 18th, 25th January,   7.30 - 9.00pm   upstairs at [Ola Clinic](http://www.totneschiropractic.co.uk/), 5a Fore Street, Totnes TQ9 5DA
+[Wednesday 9th March](https://www.techniqueforlife.com/workshops/free-evening-intros/) in person; 7.30 - 8.30pm
 
-These evenings offer an exploratory 'toe in the water' with no obligation - come along and find out a bit more about yourself, ask questions, meet me!
+[Monday 14th March](https://buytickets.at/bethanevans/646748) online; 7.30 - 8.30pm
 
-Each session will stand alone; you're welcome to attend any of them.
-
-Please arrive five minutes early (7.25pm) as the room size limits numbers.
-
-Feel free to contact me with any questions
-
-_Covid-19 precautions etc:_  To care for all, please only attend if you are free of coldy / covid-19 symptoms and have not been in contact in the previous 14 days with anyone who's tested positive or is showing symptoms.  You are welcome to wear a mask if you wish, however it will not be possible to maintain 1m distance from all others due to the size of the venue.  **Bring warm layers, blankets** etc if you feel the cold as we will have ventilation!
+These evenings offer an exploratory ‘toe in the water’ with no obligation - come along and find out a bit more, ask questions, meet me!  The sessions stand alone; you’re welcome to attend either.  Feel free to contact me with any questions
 
 ##### One-to-one **_ShadowWork_ coaching**
 
