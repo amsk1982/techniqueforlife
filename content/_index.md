@@ -26,6 +26,8 @@ She continues to study with Jan Day and with Joanna Watters ("Supporting a radic
 
 ![](/uploads/be2020.04.22sml.jpg)
 
+Coaching and workshops in Devon, Bristol & London.
+
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
