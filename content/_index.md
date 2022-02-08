@@ -9,7 +9,7 @@ title = "Homepage"
 
 ### Would you like a richer, more connected, more authentic life?
 
-Bethan offers **_Shadow Work_** coaching,     **_Wholeness coaching_** and School of Being **workshops** on themes of **_relating & intimacy_**,
+Bethan offers **_Shadow Work_** coaching,     **_Wholeness coaching_** and School of Being **_workshops_** on themes of **_relating & intimacy_**,
 
 to help you have that.
 
