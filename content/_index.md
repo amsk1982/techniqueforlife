@@ -5,13 +5,13 @@ title = "Homepage"
 +++
 ##### _Contact: 07515 482 426_, [_Bethan@TechniqueForLife.com_](mailto:bethan@techniqueforlife.com) _or_
 
-[_click here_](http://eepurl.com/gIC8Xz) _to sign up for occasional news emails_  
+[_click here_](http://eepurl.com/gIC8Xz) _to sign up for occasional news emails_
 
 ### Would you like a richer, more connected, more authentic life?
 
-Bethan offers **_Shadow Work_** coaching,     **_Wholeness coaching_** and School of Being **workshops** on themes of **_relating & intimacy_**, 
+Bethan offers **_Shadow Work_** coaching,     **_Wholeness coaching_** and School of Being **workshops** on themes of **_relating & intimacy_**,
 
-which can help you get that.
+to help you have that.
 
 ![](/uploads/bethanevansoutdoorsml.jpg)
 
