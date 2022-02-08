@@ -5,7 +5,7 @@ title = "Homepage"
 +++
 ##### _Contact: 07515 482 426_, [_Bethan@TechniqueForLife.com_](mailto:bethan@techniqueforlife.com) _or_
 
-[_click here_](http://eepurl.com/gIC8Xz) _to sign up for occasional news emails_
+[_click here_](http://eepurl.com/gIC8Xz) _to sign up for occasional email news & offers_
 
 ### Would you like a richer, more connected, more authentic life?
 
