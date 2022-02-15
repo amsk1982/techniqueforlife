@@ -8,7 +8,7 @@ link = "https://www.eventbrite.co.uk/e/meetings-without-masks-tickets-8007407471
 location = "Belgravia, London"
 [[event]]
 date = "2022-04-23T12:00:00+00:00"
-link = ""
+link = "https://buytickets.at/bethanevans/653770"
 location = "Central Bristol - tickets coming soon"
 
 +++
