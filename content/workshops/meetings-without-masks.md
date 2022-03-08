@@ -20,7 +20,7 @@ location = "Central Bristol"
 
 ![](/uploads/mwmgreyorangewritingonly.jpg)
 
-It can be tough to make real connections in our busy lives. Pubs, clubs and the dating industry can feel like a market place.
+It can be tough to make real connections in our busy lives. Pubs, clubs and the dating industry can feel like a market place. 
 
 So where and how do we find and meet each other in a different way?
 
