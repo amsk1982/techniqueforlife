@@ -3,8 +3,8 @@ date = 2019-05-05T09:58:10Z
 summary = "A gender balanced workshop for single people "
 title = "Meetings Without Masks "
 [[event]]
-date = "2022-02-20T10:00:00+00:00"
-link = "https://www.eventbrite.co.uk/e/meetings-without-masks-tickets-80074074713"
+date = "2022-07-10T09:00:00+00:00"
+link = "https://buytickets.at/bethanevans"
 location = "Belgravia, London"
 [[event]]
 date = "2022-04-23T12:00:00+00:00"
