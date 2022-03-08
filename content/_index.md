@@ -19,7 +19,7 @@ Bethan invites you to welcome yourself just as you are in each moment, as a star
 
 ##### About Bethan:-
 
-During a first career in the helping professions Bethan was drawn to Alexander Technique and later to Shadow Work and Tantra, all of which helped her deal with personal challenges such as bereavement, depression and a sense of not belonging.
+During a first career in the helping professions Bethan was drawn to Alexander Technique and later to Shadow Work and Tantra, all of which helped her deal with personal challenges such as bereavement, depression and a sense of not belonging.  People appreciate the safety they feel during sessions and workshops, Bethan's clarity and her ability to 'meet' & hold them in all sorts of feeling states.
 
 Over time she has trained and practiced as an Alexander Technique teacher, a Shadow Work coach and with renowned relationship expert Jan Day in her School of Being.  
 She continues to study with Jan Day and with Joanna Watters ("Supporting a radical acceptance of present moment reality")
