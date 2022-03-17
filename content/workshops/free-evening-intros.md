@@ -1,20 +1,16 @@
 +++
 date = ""
+draft = true
 summary = "Free evening introductions to Shadow Work"
 title = "Welcome Shadow - Embrace Your Gold"
 [[event]]
-date = "2022-03-09T01:00:00+00:00"
+date = "2022-06-29T00:00:00+00:00"
 link = ""
 linkName = ""
 location = "Totnes"
-[[event]]
-date = "2022-03-14T01:00:00+00:00"
-link = "https://buytickets.at/bethanevans/646748"
-linkName = ""
-location = "Online"
 
 +++
-#### Free evening introduction to Shadow Work
+#### Free evening introductions to Shadow Work
 
 Wednesday 9th March in person; 7.30 - 8.30pm; see below for more details
 
