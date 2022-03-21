@@ -7,13 +7,11 @@ title = "ShadowWork coaching  "
 +++
 #### _Available online - Bethan@TechniqueForLife.com, 07515 482 426_
 
-###### **FREE introductory evenings in March 2022**
+###### **FREE introductory evenings** 
 
-[Wednesday 9th March](https://www.techniqueforlife.com/workshops/free-evening-intros/) in person; 7.30 - 8.30pm
+These evenings offer an exploratory ‘toe in the water’ with no obligation - come along and find out a bit more, ask questions, meet me!  The sessions stand alone; you’re welcome to attend either.  Feel free to contact me with any questions.
 
-[Monday 14th March](https://buytickets.at/bethanevans/646748) online; 7.30 - 8.30pm
-
-These evenings offer an exploratory ‘toe in the water’ with no obligation - come along and find out a bit more, ask questions, meet me!  The sessions stand alone; you’re welcome to attend either.  Feel free to contact me with any questions
+_Next dates to be confirmed._
 
 ##### One-to-one **_ShadowWork_ coaching**
 
