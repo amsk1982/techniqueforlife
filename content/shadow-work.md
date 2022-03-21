@@ -7,11 +7,9 @@ title = "ShadowWork coaching  "
 +++
 #### _Available online - Bethan@TechniqueForLife.com, 07515 482 426_
 
-###### **FREE introductory evenings** 
+###### **FREE introductory evenings -** _next dates to be confirmed_
 
 These evenings offer an exploratory ‘toe in the water’ with no obligation - come along and find out a bit more, ask questions, meet me!  The sessions stand alone; you’re welcome to attend either.  Feel free to contact me with any questions.
-
-_Next dates to be confirmed._
 
 ##### One-to-one **_ShadowWork_ coaching**
 
