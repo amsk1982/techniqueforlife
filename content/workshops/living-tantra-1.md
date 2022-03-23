@@ -1,6 +1,5 @@
 +++
 date = 2019-05-05T09:17:15Z
-draft = true
 summary = "Living Tantra is for people who want to experience richer relationships, deeper intimacy and more authentic connection with others."
 title = "Introduction to Living Tantra"
 [[event]]
@@ -11,11 +10,11 @@ This introductory day invites you to say hello to and welcome all that you feel 
 
 During the day you will meet and connect with others in a safe and nourishing space where you can relax into discovering yourself and your way of connecting.
 
-##### Next on 10th September 2022 - 
+##### Next on 10th September 2022 -
 
-[contact me]() if you'd like to hear when tickets are released.
+Contact me if you'd like to hear when tickets are released - [_Bethan@TechniqueForLife.com_](mailto:bethan@techniqueforlife.com) _/ 07515 482 426_
 
-Here's some feedback we've had:-
+Here's some feedback we've had about the day:-
 
 _"I thought the structure of the day worked really well to build trust and a sense of safety"_
 
