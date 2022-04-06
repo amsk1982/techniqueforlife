@@ -29,9 +29,9 @@ _ACCOMMODATION_ in standard dormitories (4 - 6 beds) with possibilities for camp
 
 _PRICES_
 
-£745  Super early bird price; book before 6th April '22
+£745  Super early bird price; book before 12th April '22
 
-£795  Early bird price; book before 25th August '22 
+£795  Early bird price; book before 25th August '22
 
 £885  Usual price
 
