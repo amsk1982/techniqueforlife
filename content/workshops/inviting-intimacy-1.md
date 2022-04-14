@@ -10,7 +10,7 @@ linkName = " "
 location = "18th - 20th March weekend, Bristol"
 
 +++
-**Friday 18th March (evening) to Sunday 20th March 2021** in Bristol
+**Friday 18th March (evening) to Sunday 20th March 2022** in Bristol
 
 To be intimate with others we must first become intimate with ourselves; to listen closely to our inner world on all levels and to welcome what we find. When we become familiar and comfortable with our feelings, thoughts and emotions we can bring the whole of ourselves into our relating with others - even the bits that we feel awkward about. This is what builds true intimacy: Having the courage & honesty to show our wants & needs, to voice our true “yes” and “no”, so that we can enter into connection with trust and acceptance of both ourselves and the other.
 
