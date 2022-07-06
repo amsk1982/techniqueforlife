@@ -4,6 +4,7 @@ summary = "A day for people who want to experience richer relationships, deeper 
 title = "Introduction to Living Tantra"
 [[event]]
 date = "2022-11-26T01:00:00+00:00"
+location = "Bristol"
 
 +++
 This introductory day invites you to say hello to and welcome all that you feel in this physical body. It is a gentle and playful introduction into the realm of Living Tantra: into being alive in your feelings, including feeling your natural desires, exploring your boundaries and learning to voice them, expressing your wants and needs, learning to ask for what you want, discovering different types of touch and loving yourself more fully. You are welcome to come on your own or with a partner.
