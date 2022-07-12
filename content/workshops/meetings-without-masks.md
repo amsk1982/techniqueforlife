@@ -9,7 +9,7 @@ location = "Central Bristol"
 [[event]]
 date = "2022-09-18T09:00:00+00:00"
 link = "https://www.meetingswithoutmasks.com/"
-location = "Belgravia, London with Nicola & Jason"
+location = "Belgravia, London - with Nicola & Jason"
 
 +++
 #### Meetings Without Masks
