@@ -41,13 +41,13 @@ The first session is between 3 - 5 hours, or it can be two 3-hour sessions.
 
 This may be enough if you want to work on something quite specific.   If you'd like to unravel an issue more, or to have coaching as part of your ongoing development and support, further sessions can be arranged.
 
-I work on a sliding scale hourly rate and ask you to communicate at the time of booking what you are able to pay between £45 - £95 per hour.   Packages are available when buying several sessions at a time, lowering the cost of each individual session.    Each month I offer a very limited number of sessions on an agreed-donation basis to those who are unable to to pay the minimum rate.
+I work on a sliding scale hourly rate and ask you to communicate at the time of booking what you are able to pay between £55 - £95 per hour.   Packages are available when buying several sessions at a time, lowering the cost of each individual session.    Each month I offer a very limited number of sessions on an agreed-donation basis to those who are unable to to pay the minimum rate.
 
 **Online:**  Sessions can be held on Zoom, Skype or Wire.
 
 The first session is split into two 'sittings', each of 1.5 hours long, subsequently they can be of a length mutually agreed, minimum 1 hour.
 
-I work on a sliding scale hourly rate and ask you to communicate at the time of booking what you are able to pay between £45 - £95 per hour.   Packages are available when buying several sessions at a time, lowering the cost of each individual session.    I offer a very limited number of sessions each month on an agreed-donation basis to those who are unable to to pay the minimum rate.
+I work on a sliding scale hourly rate and ask you to communicate at the time of booking what you are able to pay between £55 - £95 per hour.   Packages are available when buying several sessions at a time, lowering the cost of each individual session.    I offer a very limited number of sessions each month on an agreed-donation basis to those who are unable to to pay the minimum rate.
 
 ![](/uploads/bethanevansoutdoorsml.jpg)
 
