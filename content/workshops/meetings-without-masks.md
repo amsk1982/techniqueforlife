@@ -7,7 +7,7 @@ date = "2022-11-19T13:00:00+00:00"
 link = "https://buytickets.at/bethanevans/692817"
 location = "Central Bristol"
 [[event]]
-date = "2022-09-18T09:00:00+00:00"
+date = "2022-11-06T10:00:00+00:00"
 link = "https://www.meetingswithoutmasks.com/"
 location = "Belgravia, London - with Nicola & Jason"
 
