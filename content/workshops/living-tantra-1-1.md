@@ -3,10 +3,10 @@ date = 2020-04-03T00:00:00Z
 summary = "A week-long retreat to dive into explorating connection - with yourself and with others"
 title = "Living Tantra 1"
 [[event]]
-date = "2022-10-07T00:00:00+00:00"
-link = "https://www.edrooke.com/booking-lt1"
+date = "2023-09-24T00:00:00+00:00"
+link = ""
 linkName = ""
-location = "7th - 14th October 2022, Devon"
+location = "24th September - 1st October 2023, Somerset"
 
 +++
 [Click here](https://www.edrooke.com/booking-lt1) to book.  _Logistics information below._
@@ -21,19 +21,19 @@ There is no pre-requisite for Living Tantra 1, you are of course welcome to atte
 
 **Logistics: -**
 
-_TIMINGS:_  _START -_ Friday 7th October arrive between 5 - 6pm, with dinner at 6.30pm.  First session begins at 7.30pm     _FINISH -_ Friday 14th November 3pm
+_TIMINGS:_  _START -_ Sunday 24th September arrive between 5 - 6pm, with dinner at 6.30pm.  First session begins at 7.30pm     _FINISH -_ Sunday 1st October 3pm
 
-_VENUE:_ [Eden Rise](http://www.edenrise.org/), a beautiful retreat centre near to Totnes in South Devon.  Direct train connection to London, journey time under 3 hours.
+_VENUE:_ [Earth Spirit Centre](http://www.earthspirit-centre.co.uk/gettinghere.php), a retreat centre near Glastonbury offering quality facilities. 
 
-_ACCOMMODATION_ in standard dormitories (4 - 6 beds) with possibilities for camping or upgrade to twin rooms with extra charge.
+_ACCOMMODATION_ in standard dormitories (3 - 8 beds) with possibilities for camping or for upgrades to single or twin rooms and / or attached bathroom, with extra charge.
 
 _PRICES_
 
-£745  Super early bird price; book before 12th April '22
+£820  Super early bird price; book before 7th April 2023
 
-£795  Early bird price; book before 25th August '22
+£870  Early bird price; book before 1st August 2023
 
-£885  Usual price
+£970  when booked after 1st August 2023
 
 [Click here](https://www.edrooke.com/booking-lt1) to book, or feel free to contact me with any questions.
 
