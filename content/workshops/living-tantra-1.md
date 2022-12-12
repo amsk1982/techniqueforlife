@@ -3,7 +3,7 @@ date = 2019-05-05T09:17:15Z
 summary = "A day for people who want to experience richer relationships, deeper intimacy and more authentic connection with others."
 title = "Introduction to Living Tantra"
 [[event]]
-date = "2022-11-26T01:00:00+00:00"
+date = "2023-02-11T01:00:00+00:00"
 location = "Bristol"
 
 +++
@@ -11,7 +11,7 @@ This introductory day invites you to say hello to and welcome all that you feel 
 
 During the day you will meet and connect with others in a safe and nourishing space where you can relax into discovering yourself and your way of connecting.
 
-##### Next on 26th November 2022 -
+##### Next on 11th February 2023 -
 
 Contact me if you'd like to hear when tickets are released - [_Bethan@TechniqueForLife.com_](mailto:bethan@techniqueforlife.com) _/ 07515 482 426_
 
