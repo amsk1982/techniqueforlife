@@ -7,7 +7,7 @@ date = "2023-02-11T01:00:00+00:00"
 location = "Bristol"
 
 +++
-This introductory day invites you to say hello to and welcome all that you feel in this physical body. It is a gentle and playful introduction into the realm of Living Tantra: into being alive in your feelings, including feeling your natural desires, exploring your boundaries and learning to voice them, expressing your wants and needs, learning to ask for what you want, discovering different types of touch and loving yourself more fully. You are welcome to come on your own or with a partner.
+This introductory day invites you to say hello to and welcome all that you feel in this physical body. It is a gentle and playful introduction into the realm of Living Tantra: into being alive in your feelings, including feeling your natural desires, exploring your boundaries and learning to voice them, expressing your wants and needs, learning to ask for what you want, discovering different types of touch and loving yourself more fully. You are welcome to come on your own or with a partner. 
 
 During the day you will meet and connect with others in a safe and nourishing space where you can relax into discovering yourself and your way of connecting.
 
