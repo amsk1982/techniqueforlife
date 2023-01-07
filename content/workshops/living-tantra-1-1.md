@@ -11,7 +11,7 @@ location = "24th September - 1st October 2023, Somerset"
 +++
 [Click here](https://www.edrooke.com/booking-lt1) to book.  _Logistics information below._
 
-Living Tantra 1 is a carefully structured seven day residential workshop which includes guided meditations, explorations in small groups and sharing circles. Many of these explorations involve movement and touch, simple actions which can encourage you to bring consciousness and compassion to all of yourself. You'll also be invited in to ceremony. This workshop, which I lead with [Ed Rooke](https://www.edrooke.com/), encourages you to expand heart, mind and body.
+Living Tantra 1 is a carefully structured seven day residential workshop which includes guided meditations, explorations in small groups and sharing circles. Many of these explorations involve movement and touch, simple actions which can encourage you to bring consciousness and compassion to all of yourself. You'll also be invited in to ceremony. This workshop, which I lead with [Ed Rooke](https://www.edrooke.com/), encourages you to expand heart, mind and body. 
 
 The week will focus on the ways that we love, relate and express our sexuality as man or woman. It aims to open you to a deeper 'yes' to all that you are. In the process, you will discover the potential for ease, delight, playfulness and consciousness. You will meet others in a caring and respectful environment and will be encouraged to awaken a more spiritual connection with your sexuality. You'll learn to discover your desires and how to express them openly, with care and respect. You will learn to love and honour yourself and your sexual nature and to celebrate your sensitivity, sensuality and innocence. Throughout Living Tantra your willingness to be alive and present with your core emotions is always encouraged. Explorations that focus on discovering and expressing your personal boundaries are an integral part of it all.
 
@@ -23,7 +23,7 @@ There is no pre-requisite for Living Tantra 1, you are of course welcome to atte
 
 _TIMINGS:_  _START -_ Sunday 24th September arrive between 5 - 6pm, with dinner at 6.30pm.  First session begins at 7.30pm     _FINISH -_ Sunday 1st October 3pm
 
-_VENUE:_ [Earth Spirit Centre](http://www.earthspirit-centre.co.uk/gettinghere.php), a retreat centre near Glastonbury offering quality facilities. 
+_VENUE:_ [Earth Spirit Centre](http://www.earthspirit-centre.co.uk/gettinghere.php), a retreat centre near Glastonbury offering quality facilities.
 
 _ACCOMMODATION_ in standard dormitories (3 - 8 beds) with possibilities for camping or for upgrades to single or twin rooms and / or attached bathroom, with extra charge.
 
