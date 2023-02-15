@@ -51,4 +51,4 @@ I work on a sliding scale hourly rate and ask you to communicate at the time of 
 
 ![](/uploads/bethanevansoutdoorsml.jpg)
 
-If you are based in Devon in or around Totnes, Dartington, the South Hams, Torquay & Paignton, Newton Abbot, Exeter or Plymouth it will be easy to get to an in-person Shadow Work session.  Also from Bristol, Taunton, Tiverton and many places in Cornwall which are near train stations.
+If you are based in Devon in or around Totnes, Dartington, the South Hams, Torquay & Paignton, Newton Abbot, Exeter or Plymouth it will be easy to get to an in-person session.  Also by train from Bristol, Taunton, Tiverton and many places in Cornwall which are near train stations.
