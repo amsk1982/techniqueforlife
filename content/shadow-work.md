@@ -57,8 +57,6 @@ I offer a limited number of sessions each month on an agreed-donation basis to t
 
 The sliding scale!:  I realise that this is not the norm and that it therefore can feel uncomfortable - it's my attempt to meet the tension between the desire to make this work available for all who wish to engage and the desire to honour my skills, training, time etc.  And my goal in general is more to support you in looking at what may well be uncomfortable, in the process of which you expand, rather than to "make things nice" ie to make circumstances more comfortable, which can so often lead to contraction.
 
-   
-
 ###### **FREE ShadowWork introductory evenings -** _next dates to be confirmed_
 
 These evenings offer an exploratory ‘toe in the water’ with no obligation - come along and find out a bit more, ask questions, meet me!  Feel free to contact me with any questions.
