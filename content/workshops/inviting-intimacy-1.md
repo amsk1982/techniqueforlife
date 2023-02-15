@@ -1,13 +1,12 @@
 +++
 date = ""
-draft = true
 summary = "A weekend to explore and deepen your relationship with yourself and others - all welcome"
 title = "Inviting Intimacy"
 [[event]]
-date = "2022-03-19T13:00:00+00:00"
-link = ""
+date = "2023-05-05T12:00:00+00:00"
+link = "https://buytickets.at/bethanevans/817485"
 linkName = " "
-location = "18th - 20th March weekend, Bristol"
+location = "5th - 7th May weekend, Bristol"
 
 +++
 **Friday 18th March (evening) to Sunday 20th March 2022** in Bristol
