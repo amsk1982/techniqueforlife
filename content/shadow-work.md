@@ -7,10 +7,6 @@ title = "One-to-one coaching  "
 +++
 #### _Available online or in person - Bethan@TechniqueForLife.com, 07515 482 426_
 
-###### **FREE introductory evenings -** _next dates to be confirmed_
-
-These evenings offer an exploratory ‘toe in the water’ with no obligation - come along and find out a bit more, ask questions, meet me!  Feel free to contact me with any questions.
-
 ##### One-to-one **_ShadowWork_ coaching**
 
 What do you want to have happen in your life?  What's in the way?
@@ -35,9 +31,9 @@ See me as your personal cheerleader, walking beside you as you move forwards, re
 
 ##### **Information:** coaching sessions
 
-**First step:**  Whether you'd like sessions in person or online, I recommend we have direct contact first so you can meet me one-to-one and see if I feel like a good 'fit' for you.  To set up your free 20-minute video call you can call or [email](mailto:bethan@techniqueforlife.com) me.   
+**First step:**  Whether you'd like sessions in person or online, I recommend we have direct contact first so you can meet me one-to-one and see if I feel like a good 'fit' for you.  To set up your free 20-minute video call you can call or [email](mailto:bethan@techniqueforlife.com) me.
 
-**Before we begin:**  I ask you to provide me with some background information before we start (by email).   
+**Before we begin:**  I ask you to provide me with some background information before we start (by email).
 
 **In person:**  Sessions are held in or near Totnes, Devon (which has a [train station](https://www.nationalrail.co.uk/stations/TOT/details.html)).  It is possible for them to be further afield, by arrangement and for an extra fee.
 
@@ -49,17 +45,21 @@ Whichever you choose, we have a 'phone call about 10 days later to check in and 
 
 **Online / ongoing coaching:**  The first session is usually for 1 hour, subsequently they can be of a length mutually agreed, minimum 1 hour.
 
-**Finances:**  I work on a sliding scale basis* and ask you to communicate at the time of booking what you are able to pay.  
+**Finances:**  I work on a sliding scale basis* and ask you to communicate at the time of booking what you are able to pay.
 
 For a ShadowWork first booking the scale is from £333 - £173
 
 For a first 1-hour session the scale is from £97 - £67
 
-Ongoing sessions are then £97 - £57    
+Ongoing sessions are then £97 - £57
 
 I offer a limited number of sessions each month on an agreed-donation basis to those who are unable to to pay the minimum rate.
 
-The sliding scale!:  I realise that this is not the norm and that it therefore can feel uncomfortable - it's my attempt to meet the tension between the desire to make this work available for all who wish to engage and the desire to honour my skills, training, time etc.  And my goal in general is more to support you in looking at what may well be uncomfortable, in the process of which you expand, rather than to "make things nice" ie to make circumstances more comfortable, which can so often lead to contraction.  
+The sliding scale!:  I realise that this is not the norm and that it therefore can feel uncomfortable - it's my attempt to meet the tension between the desire to make this work available for all who wish to engage and the desire to honour my skills, training, time etc.  And my goal in general is more to support you in looking at what may well be uncomfortable, in the process of which you expand, rather than to "make things nice" ie to make circumstances more comfortable, which can so often lead to contraction.
+
+###### **FREE introductory evenings -** _next dates to be confirmed_
+
+These evenings offer an exploratory ‘toe in the water’ with no obligation - come along and find out a bit more, ask questions, meet me!  Feel free to contact me with any questions.
 
 ![](/uploads/bethanevansoutdoorsml.jpg)
 
