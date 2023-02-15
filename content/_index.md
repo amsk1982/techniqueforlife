@@ -9,9 +9,9 @@ title = "Homepage"
 
 ### Would you like a richer, more connected, more authentic life?
 
-Bethan offers **_Shadow Work_** coaching,     **_Wholeness coaching_** and School of Being [workshops](https://www.techniqueforlife.com/workshops) on themes of **_relating & intimacy_**, so you can have that.  For more information on coaching see the [One-to-one](https://www.techniqueforlife.com/shadow-work) page.
+Bethan offers **_Shadow Work_** coaching,     **_Wholeness coaching_** and School of Being [workshops](https://www.techniqueforlife.com/workshops) on themes of **_relating & intimacy_**, so that you can move more into the life you want.  For more information on coaching see the [One-to-one](https://www.techniqueforlife.com/shadow-work) page.
 
-Bethan invites you to welcome yourself just as you are in each moment, as a starting point for opening to your fullest self.  Her aim is to create an accepting, non-judgmental space for whatever arises.  People describe her as having insight and compassion.
+Bethan invites you to welcome yourself just as you are in each moment, as a starting point for opening to your fullest self.  Her aim is to create an accepting, non-judgmental space for whatever arises.  People describe her as having insight and compassion and creating a space which feels safe for them to show up just as they are.
 
 ![](/uploads/bethanevansoutdoorsml.jpg)
 
