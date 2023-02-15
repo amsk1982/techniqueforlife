@@ -59,7 +59,7 @@ The sliding scale!:  I realise that this is not the norm and that it therefore c
 
  
 
-###### **FREE ShadowWork introductory evenings -** _next dates to be confirmed_
+###### **FREE  ShadowWork introductory evenings -** _next dates to be confirmed_
 
 These evenings offer an exploratory ‘toe in the water’ with no obligation - come along and find out a bit more, ask questions, meet me!  Feel free to contact me with any questions.
 
