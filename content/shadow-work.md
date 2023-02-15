@@ -35,19 +35,31 @@ See me as your personal cheerleader, walking beside you as you move forwards, re
 
 ##### **Information:** coaching sessions
 
-Whether you'd like sessions in person or online, I recommend we have direct contact first so you can meet me and see if I feel like a good 'fit' for you.  To set up your free 20-minute video call you can call or [email me](mailto:bethan@techniqueforlife.com).
+**First step:**  Whether you'd like sessions in person or online, I recommend we have direct contact first so you can meet me one-to-one and see if I feel like a good 'fit' for you.  To set up your free 20-minute video call you can call or [email](mailto:bethan@techniqueforlife.com) me.   
 
-**In person:**  Sessions are held in or near Totnes, Devon (which has a [train station](https://www.nationalrail.co.uk/stations/TOT/details.html))
+**Before we begin:**  I ask you to provide me with some background information before we start (by email).   
 
-The first session is between 3 - 5 hours, or it can be split into two 3-hour sessions.
+**In person:**  Sessions are held in or near Totnes, Devon (which has a [train station](https://www.nationalrail.co.uk/stations/TOT/details.html)).  It is possible for them to be further afield, by arrangement and for an extra fee.
+
+For a first ShadowWork session we need to allow 3 hours, with the flexibility to continue for an extra half hour if needed.
 
 This may be enough if you want to work on something quite specific.   If you'd like to unravel an issue more, or to have coaching as part of your ongoing development and support, further sessions can be arranged.
 
-I work on a sliding scale hourly rate and ask you to communicate at the time of booking what you are able to pay between £55 - £95 per hour.   Packages are available when buying several sessions at a time, lowering the cost of each individual session.    Each month I offer a very limited number of sessions on an agreed-donation basis to those who are unable to to pay the minimum rate.
+Whichever you choose, we have a 'phone call about 10 days later to check in and see how you are and address any questions arising.
 
-**Online:**  The first session is split into two 'sittings', each of 1.5 hours long, subsequently they can be of a length mutually agreed, minimum 1 hour.
+**Online / ongoing coaching:**  The first session is usually for 1 hour, subsequently they can be of a length mutually agreed, minimum 1 hour.
 
-I work on a sliding scale hourly rate and ask you to communicate at the time of booking what you are able to pay between £55 - £95 per hour.   Packages are available when buying several sessions at a time, lowering the cost of each individual session.    I offer a very limited number of sessions each month on an agreed-donation basis to those who are unable to to pay the minimum rate.
+**Finances:**  I work on a sliding scale basis* and ask you to communicate at the time of booking what you are able to pay.  
+
+For a ShadowWork first booking the scale is from £333 - £173
+
+For a first 1-hour session the scale is from £97 - £67
+
+Ongoing sessions are then £97 - £57    
+
+I offer a limited number of sessions each month on an agreed-donation basis to those who are unable to to pay the minimum rate.
+
+The sliding scale!:  I realise that this is not the norm and that it therefore can feel uncomfortable - it's my attempt to meet the tension between the desire to make this work available for all who wish to engage and the desire to honour my skills, training, time etc.  And my goal in general is more to support you in looking at what may well be uncomfortable, in the process of which you expand, rather than to "make things nice" ie to make circumstances more comfortable, which can so often lead to contraction.  
 
 ![](/uploads/bethanevansoutdoorsml.jpg)
 
