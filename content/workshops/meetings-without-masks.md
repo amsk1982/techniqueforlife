@@ -20,7 +20,7 @@ location = "Belgravia, London, with Nicola & Jason"
 
 ![](/uploads/mwmgreyorangewritingonly.jpg)
 
-It can be tough to make real connections in our busy lives. Pubs, clubs and the dating industry can feel like a market place. 
+It can be tough to make real connections in our busy lives. Pubs, clubs and the dating industry can feel like a market place.
 
 So where and how do we find and meet each other in a different way?
 
@@ -40,7 +40,7 @@ _“This workshop has really helped me see & experience how to approach relation
 
 ###### PRICING:-
 
-In **Bristol** tickets are £66 / £33 (guaranteed place / standby)
+In **Bristol** tickets are £68 / £34 (guaranteed place / standby)
 
 In **London** they are £89 / £45 (guaranteed / standby)
 
