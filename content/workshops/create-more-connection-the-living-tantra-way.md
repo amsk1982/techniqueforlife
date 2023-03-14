@@ -1,19 +1,18 @@
 +++
 date = 2021-01-17T00:00:00Z
-draft = true
-summary = "Free evening workshops for all"
+summary = "Free evening webinar for all"
 title = "Create More Connection the Living Tantra way"
 [[event]]
-date = ""
-link = ""
+date = "2023-04-18T00:00:00+00:00"
+link = "https://buytickets.at/bethanevans"
 linkName = ""
-location = "Online, next date tbc"
+location = "Online"
 
 +++
-Join us for an evening exploring intimacy - yes, online, it really is possible!
+Join us for an evening creating connection.
 
-This will be an interactive evening led by me and Ed, open to everyone over 18 years old regardless of gender, sexuality, race, relationship status.
+This will be an experiential evening led by me and Ed, open to everyone over 18 years old regardless of gender, sexuality, race, relationship status etc.
 
-Just sign up to receive occasional newsletters and marketing emails from Bethan Evans and from Ed Rooke to [get your free ticket here.](https://buytickets.at/bethanevans)
+If you're curious about tantra in general and / or Living Tantra workshops this is a great opportunity to try it out, and to meet myself and Ed - albeit online!
 
-If you'd like an introduction to myself and Ed and the evening, we spoke a little about it on [this video.](https://fb.watch/3fWTf_g5g1/)  And, to answer the questions we get about 'is it all about sex?' we made [this.](https://www.facebook.com/554383154995760/videos/236518371521802)
+Just sign up to receive occasional newsletters and marketing emails from me and from Ed to [get your free ticket here.](https://buytickets.at/bethanevans)
