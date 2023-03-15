@@ -7,9 +7,9 @@ date = "2023-04-01T12:00:00+00:00"
 link = "https://buytickets.at/bethanevans/825121"
 location = "Central Bristol"
 [[event]]
-date = "2023-04-30T09:00:00+00:00"
-link = "https://www.meetingswithoutmasks.com/"
-location = "Belgravia, London, with Nicola & Jason"
+date = "2023-06-24T09:00:00+00:00"
+link = "https://buytickets.at/bethanevans/817486"
+location = "Belgravia, London"
 
 +++
 #### Meetings Without Masks
