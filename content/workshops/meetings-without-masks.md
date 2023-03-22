@@ -1,6 +1,6 @@
 +++
 date = 2019-05-05T09:58:10Z
-summary = "A gender balanced workshop for single people "
+summary = "A gender balanced workshop for those available for dating "
 title = "Meetings Without Masks "
 [[event]]
 date = "2023-04-01T12:00:00+00:00"
