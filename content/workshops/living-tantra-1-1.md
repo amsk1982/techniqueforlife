@@ -11,7 +11,7 @@ location = "24th September - 1st October 2023, Somerset"
 +++
 [Click here](https://www.edrooke.com/booking-lt1) to book.  _Logistics information below._
 
-Living Tantra 1 is a carefully structured seven day residential workshop which includes guided meditations, explorations in small groups and sharing circles. Many of these explorations involve movement and touch, simple actions which can encourage you to bring consciousness and compassion to all of yourself. You'll also be invited in to ceremony. This workshop, which I lead with [Ed Rooke](https://www.edrooke.com/), encourages you to expand heart, mind and body. 
+Living Tantra 1 is a carefully structured seven day residential workshop which includes guided meditations, explorations in small groups and sharing circles. Many of these explorations involve movement and touch, simple actions which can encourage you to bring consciousness and compassion to all of yourself. You'll also be invited in to ceremony. This workshop, which I lead with [Ed Rooke](https://www.edrooke.com/), encourages you to expand heart, mind and body.
 
 The week will focus on the ways that we love, relate and express our sexuality as man or woman. It aims to open you to a deeper 'yes' to all that you are. In the process, you will discover the potential for ease, delight, playfulness and consciousness. You will meet others in a caring and respectful environment and will be encouraged to awaken a more spiritual connection with your sexuality. You'll learn to discover your desires and how to express them openly, with care and respect. You will learn to love and honour yourself and your sexual nature and to celebrate your sensitivity, sensuality and innocence. Throughout Living Tantra your willingness to be alive and present with your core emotions is always encouraged. Explorations that focus on discovering and expressing your personal boundaries are an integral part of it all.
 
@@ -29,7 +29,7 @@ _ACCOMMODATION_ in standard dormitories (3 - 8 beds) with possibilities for camp
 
 _PRICES_
 
-£820  Super early bird price; book before 7th April 2023
+£820  Super early bird price; book before 7th May 2023
 
 £870  Early bird price; book before 1st August 2023
 
