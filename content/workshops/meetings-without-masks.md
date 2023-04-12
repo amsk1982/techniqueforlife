@@ -3,13 +3,13 @@ date = 2019-05-05T09:58:10Z
 summary = "A gender balanced workshop for those available for dating "
 title = "Meetings Without Masks "
 [[event]]
-date = "2023-04-01T12:00:00+00:00"
-link = "https://buytickets.at/bethanevans/825121"
-location = "Central Bristol"
-[[event]]
 date = "2023-06-24T09:00:00+00:00"
 link = "https://buytickets.at/bethanevans/817486"
 location = "Belgravia, London"
+[[event]]
+date = "2023-11-25T13:00:00+00:00"
+link = "https://buytickets.at/bethanevans/883371"
+location = "Central Bristol"
 
 +++
 #### Meetings Without Masks
