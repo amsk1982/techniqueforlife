@@ -5,7 +5,7 @@ title = "Meetings Without Masks "
 [[event]]
 date = "2023-06-24T09:00:00+00:00"
 link = "https://buytickets.at/bethanevans/817486"
-location = "Belgravia, London"
+location = "London"
 [[event]]
 date = "2023-11-25T13:00:00+00:00"
 link = "https://buytickets.at/bethanevans/883371"
